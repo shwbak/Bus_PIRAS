@@ -2,3 +2,4 @@
 *.py linguist-vendored=false
 *.ipynb linguist-vendored=false
 *.cs linguist-vendored=false
+*.sh linguist-vendored=false
