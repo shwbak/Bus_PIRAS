@@ -1,0 +1,3 @@
+*.Cython linguist-detectable=false
+*.Shell linguist-detectable=false
+*.Cuda linguist-detectable=false
