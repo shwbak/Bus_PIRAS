@@ -1,3 +1,4 @@
-*.cython linguist-detectable=false
-*.shell linguist-detectable=false
-*.cuda linguist-detectable=false
+* linguist-vendored
+*.py linguist-vendored=false
+*.ipynb linguist-vendored=false
+*.cs linguist-vendored=false
