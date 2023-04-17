@@ -3,3 +3,6 @@
 *.ipynb linguist-vendored=false
 *.cs linguist-vendored=false
 *.sh linguist-vendored=false
+*.txt filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
+*.avi filter=lfs diff=lfs merge=lfs -text
