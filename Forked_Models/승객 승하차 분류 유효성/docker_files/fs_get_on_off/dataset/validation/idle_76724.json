@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.8479166666666667,
+            0.5425925925925926,
+            -0.0005208333333333037,
+            -0.06481481481481483,
+            0.031770833333333304,
+            0.01851851851851849,
+            -0.020312499999999956,
+            0.062037037037037
+        ],
+        [
+            0.4510416666666667,
+            0.13240740740740742,
+            -0.002083333333333326,
+            -0.031481481481481485,
+            0.02812500000000001,
+            0.0398148148148148,
+            0.027604166666666652,
+            0.0398148148148148
+        ],
+        [
+            0.35,
+            0.05277777777777778,
+            -0.008333333333333304,
+            -0.025,
+            0.014583333333333337,
+            0.014814814814814815,
+            -0.009374999999999967,
+            0.018518518518518524
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/downtown/[downtown]attend_835A/[downtown]attend_835A_145.json",
+            "id": 3
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/downtown/[downtown]attend_835A/[downtown]attend_835A_150.json",
+            "id": 3
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/downtown/[downtown]attend_835A/[downtown]attend_835A_155.json",
+            "id": 3
+        }
+    ],
+    "label": 2
+}

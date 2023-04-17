@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.3229166666666667,
+            0.2657407407407407,
+            0.0,
+            -0.03055555555555553,
+            -0.016666666666666663,
+            0.02685185185185185,
+            0.011458333333333293,
+            0.015740740740740777
+        ],
+        [
+            0.3515625,
+            0.2722222222222222,
+            -0.001041666666666663,
+            -0.03796296296296295,
+            -0.021874999999999978,
+            0.02407407407407408,
+            0.011458333333333348,
+            0.00462962962962965
+        ],
+        [
+            0.3885416666666667,
+            0.2740740740740741,
+            -0.002083333333333326,
+            -0.02777777777777779,
+            -0.0234375,
+            0.037037037037037035,
+            0.013020833333333315,
+            0.016666666666666663
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2011A/[apt]night_2011A_168.json",
+            "id": 3
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2011A/[apt]night_2011A_171.json",
+            "id": 3
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2011A/[apt]night_2011A_174.json",
+            "id": 3
+        }
+    ],
+    "label": 1
+}

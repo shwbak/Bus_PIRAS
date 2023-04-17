@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.8041666666666667,
+            0.2657407407407407,
+            0.009895833333333326,
+            -0.024074074074074053,
+            -0.015104166666666696,
+            0.007407407407407418,
+            0.005208333333333259,
+            0.0092592592592593
+        ],
+        [
+            0.8286458333333333,
+            0.2833333333333333,
+            0.008854166666666718,
+            -0.0222222222222222,
+            -0.018749999999999933,
+            0.00833333333333336,
+            0.0078125,
+            0.00833333333333336
+        ],
+        [
+            0.8625,
+            0.30833333333333335,
+            0.006249999999999978,
+            -0.025925925925925963,
+            -0.015104166666666696,
+            0.011111111111111072,
+            0.010937499999999933,
+            0.013888888888888895
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]night_007A/[mid_high]night_007A_420.json",
+            "id": 3
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]night_007A/[mid_high]night_007A_423.json",
+            "id": 3
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]night_007A/[mid_high]night_007A_426.json",
+            "id": 3
+        }
+    ],
+    "label": 1
+}

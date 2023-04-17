@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.634375,
+            0.25,
+            0.0078125,
+            -0.05092592592592593,
+            0.015625,
+            0.033333333333333326,
+            -0.031770833333333304,
+            0.01944444444444443
+        ],
+        [
+            0.6,
+            0.22314814814814815,
+            0.01302083333333337,
+            -0.04629629629629631,
+            0.014583333333333393,
+            0.02777777777777779,
+            -0.028124999999999956,
+            0.005555555555555564
+        ],
+        [
+            0.58125,
+            0.19537037037037036,
+            0.01302083333333326,
+            -0.033333333333333326,
+            0.008854166666666607,
+            0.030555555555555558,
+            -0.02187500000000009,
+            0.01203703703703704
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]day_923A/[supermarket]day_923A_255.json",
+            "id": 17
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]day_923A/[supermarket]day_923A_260.json",
+            "id": 17
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]day_923A/[supermarket]day_923A_265.json",
+            "id": 17
+        }
+    ],
+    "label": 2
+}

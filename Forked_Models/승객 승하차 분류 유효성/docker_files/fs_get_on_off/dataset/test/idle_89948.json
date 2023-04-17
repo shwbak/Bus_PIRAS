@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.9239583333333333,
+            0.587037037037037,
+            0.015104166666666696,
+            -0.045370370370370394,
+            -0.0234375,
+            -0.0037037037037036535,
+            -0.011458333333333348,
+            0.036111111111111094
+        ],
+        [
+            0.925,
+            0.5824074074074074,
+            0.011979166666666652,
+            -0.04537037037037028,
+            -0.02447916666666672,
+            0.0009259259259259967,
+            -0.012500000000000067,
+            0.040740740740740744
+        ],
+        [
+            0.9109375,
+            0.5796296296296296,
+            0.017708333333333326,
+            -0.04629629629629628,
+            -0.019270833333333237,
+            -0.00462962962962965,
+            -0.007291666666666585,
+            0.03425925925925932
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]morning_2559A/[apt]morning_2559A_265.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]morning_2559A/[apt]morning_2559A_270.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]morning_2559A/[apt]morning_2559A_275.json",
+            "id": 2
+        }
+    ],
+    "label": 2
+}

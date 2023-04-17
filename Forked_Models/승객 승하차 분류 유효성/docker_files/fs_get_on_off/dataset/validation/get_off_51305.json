@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.5885416666666666,
+            0.058333333333333334,
+            0.007291666666666696,
+            -0.011111111111111113,
+            -0.02083333333333326,
+            0.014814814814814808,
+            0.011979166666666652,
+            0.002777777777777775
+        ],
+        [
+            0.565625,
+            0.03888888888888889,
+            0.0067708333333332815,
+            -0.011111111111111113,
+            -0.02083333333333337,
+            0.014814814814814815,
+            0.010937499999999933,
+            0.002777777777777775
+        ],
+        [
+            0.54375,
+            0.03796296296296296,
+            0.003645833333333348,
+            -0.018518518518518517,
+            -0.016666666666666607,
+            0.004629629629629629,
+            0.01041666666666674,
+            0.002777777777777782
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]attend_880A/[supermarket]attend_880A_400.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]attend_880A/[supermarket]attend_880A_405.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]attend_880A/[supermarket]attend_880A_410.json",
+            "id": 2
+        }
+    ],
+    "label": 1
+}

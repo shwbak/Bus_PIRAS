@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.7390625,
+            0.6481481481481481,
+            0.007291666666666696,
+            -0.04629629629629628,
+            -0.03541666666666665,
+            -0.0018518518518518823,
+            0.031770833333333415,
+            0.03888888888888886
+        ],
+        [
+            0.74375,
+            0.7166666666666667,
+            0.004687499999999956,
+            -0.06574074074074077,
+            -0.046354166666666696,
+            -0.005555555555555536,
+            0.033333333333333326,
+            0.03518518518518521
+        ],
+        [
+            0.734375,
+            0.8490740740740741,
+            0.0078125,
+            -0.05740740740740746,
+            -0.038541666666666696,
+            -0.026851851851851904,
+            0.0546875,
+            0.02314814814814814
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1896A/[apt]night_1896A_123.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1896A/[apt]night_1896A_126.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1896A/[apt]night_1896A_129.json",
+            "id": 2
+        }
+    ],
+    "label": 0
+}

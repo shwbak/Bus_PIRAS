@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.8203125,
+            0.5120370370370371,
+            0.011458333333333348,
+            -0.061111111111111116,
+            -0.036979166666666674,
+            -0.04351851851851857,
+            0.05364583333333328,
+            0.06018518518518512
+        ],
+        [
+            0.8265625,
+            0.5518518518518518,
+            0.018750000000000044,
+            -0.05740740740740735,
+            -0.03541666666666665,
+            -0.06111111111111106,
+            0.05156250000000007,
+            0.06944444444444453
+        ],
+        [
+            0.8114583333333333,
+            0.5648148148148148,
+            0.010937500000000044,
+            -0.06574074074074071,
+            -0.035937499999999956,
+            -0.05555555555555547,
+            0.05312500000000009,
+            0.05648148148148158
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_2526A/[apt]day_2526A_330.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_2526A/[apt]day_2526A_335.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_2526A/[apt]day_2526A_340.json",
+            "id": 1
+        }
+    ],
+    "label": 0
+}

@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.6380208333333334,
+            0.13055555555555556,
+            0.0010416666666666075,
+            -0.01574074074074075,
+            -0.009375000000000022,
+            0.01203703703703704,
+            0.005208333333333259,
+            0.014814814814814808
+        ],
+        [
+            0.5317708333333333,
+            0.1,
+            0.0010416666666667185,
+            -0.013888888888888895,
+            -0.009375000000000022,
+            0.014814814814814808,
+            0.00520833333333337,
+            0.013888888888888881
+        ],
+        [
+            0.46510416666666665,
+            0.08703703703703704,
+            -0.0005208333333333037,
+            -0.01203703703703704,
+            -0.0078125,
+            0.014814814814814808,
+            0.00520833333333337,
+            0.007407407407407404
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1528A/[apt]attend_1528A_360.json",
+            "id": 3
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1528A/[apt]attend_1528A_363.json",
+            "id": 3
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1528A/[apt]attend_1528A_366.json",
+            "id": 3
+        }
+    ],
+    "label": 2
+}

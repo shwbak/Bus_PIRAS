@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.2203125,
+            0.17777777777777778,
+            -0.006770833333333337,
+            -0.02685185185185185,
+            -0.002083333333333326,
+            0.009259259259259245,
+            0.006770833333333337,
+            0.005555555555555536
+        ],
+        [
+            0.2078125,
+            0.16944444444444445,
+            -0.005729166666666674,
+            -0.02407407407407408,
+            -0.0020833333333333537,
+            0.008333333333333331,
+            0.006249999999999978,
+            0.0046296296296296224
+        ],
+        [
+            0.19375,
+            0.16018518518518518,
+            -0.003645833333333348,
+            -0.017592592592592576,
+            0.0,
+            0.0046296296296296224,
+            0.004687499999999983,
+            0.005555555555555564
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]attend_433A/[ele]attend_433A_306.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]attend_433A/[ele]attend_433A_309.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]attend_433A/[ele]attend_433A_312.json",
+            "id": 1
+        }
+    ],
+    "label": 2
+}

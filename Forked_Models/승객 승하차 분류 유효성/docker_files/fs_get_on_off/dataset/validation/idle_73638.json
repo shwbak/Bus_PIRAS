@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.6765625,
+            0.2361111111111111,
+            -0.002083333333333326,
+            -0.025925925925925908,
+            -0.009895833333333326,
+            0.015740740740740722,
+            0.007291666666666696,
+            0.02685185185185185
+        ],
+        [
+            0.6239583333333333,
+            0.20185185185185187,
+            -0.0026041666666666297,
+            -0.022222222222222227,
+            -0.008854166666666607,
+            0.0111111111111111,
+            0.00520833333333337,
+            0.02685185185185185
+        ],
+        [
+            0.5744791666666667,
+            0.175,
+            -0.003645833333333348,
+            -0.025925925925925908,
+            -0.005729166666666674,
+            0.006481481481481505,
+            0.004687500000000067,
+            0.010185185185185186
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]leave_309A/[mid_high]leave_309A_420.json",
+            "id": 4
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]leave_309A/[mid_high]leave_309A_425.json",
+            "id": 4
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]leave_309A/[mid_high]leave_309A_430.json",
+            "id": 4
+        }
+    ],
+    "label": 2
+}

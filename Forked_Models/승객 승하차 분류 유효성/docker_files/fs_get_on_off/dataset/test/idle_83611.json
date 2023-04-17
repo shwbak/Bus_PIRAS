@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.4739583333333333,
+            0.2638888888888889,
+            -0.0036458333333332926,
+            -0.022222222222222227,
+            -0.001041666666666663,
+            0.014814814814814836,
+            0.015104166666666696,
+            0.040740740740740744
+        ],
+        [
+            0.4671875,
+            0.26296296296296295,
+            -0.0036458333333332926,
+            -0.022222222222222227,
+            -0.001041666666666663,
+            0.014814814814814836,
+            0.015104166666666696,
+            0.040740740740740744
+        ],
+        [
+            0.4557291666666667,
+            0.25462962962962965,
+            -0.003645833333333348,
+            -0.022222222222222254,
+            -0.001041666666666663,
+            0.01481481481481478,
+            0.01510416666666664,
+            0.040740740740740744
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1878A/[apt]night_1878A_273.json",
+            "id": 6
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1878A/[apt]night_1878A_276.json",
+            "id": 6
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1878A/[apt]night_1878A_279.json",
+            "id": 6
+        }
+    ],
+    "label": 2
+}

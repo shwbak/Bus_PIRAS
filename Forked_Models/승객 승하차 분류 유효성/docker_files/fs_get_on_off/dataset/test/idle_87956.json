@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.35885416666666664,
+            0.32592592592592595,
+            -0.0026041666666666297,
+            -0.0092592592592593,
+            0.0,
+            0.004629629629629595,
+            0.0015625000000000222,
+            0.01851851851851849
+        ],
+        [
+            0.35833333333333334,
+            0.32592592592592595,
+            -0.002604166666666685,
+            -0.012037037037037068,
+            -0.0005208333333333592,
+            0.002777777777777768,
+            0.0,
+            0.012037037037037013
+        ],
+        [
+            0.35833333333333334,
+            0.32407407407407407,
+            -0.003124999999999989,
+            -0.010185185185185186,
+            -0.0005208333333333592,
+            0.003703703703703709,
+            -0.0015625000000000222,
+            0.012037037037037068
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]night_1843A/[district]night_1843A_288.json",
+            "id": 4
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]night_1843A/[district]night_1843A_291.json",
+            "id": 4
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]night_1843A/[district]night_1843A_294.json",
+            "id": 4
+        }
+    ],
+    "label": 2
+}

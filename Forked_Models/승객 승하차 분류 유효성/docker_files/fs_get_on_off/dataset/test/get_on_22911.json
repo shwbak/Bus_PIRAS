@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.5817708333333333,
+            0.09351851851851851,
+            0.0026041666666666297,
+            -0.03148148148148148,
+            -0.019791666666666652,
+            0.010185185185185186,
+            0.011458333333333348,
+            0.010185185185185186
+        ],
+        [
+            0.5536458333333333,
+            0.08518518518518518,
+            0.0010416666666667185,
+            -0.03055555555555555,
+            -0.01822916666666663,
+            0.003703703703703709,
+            0.011458333333333348,
+            0.002777777777777782
+        ],
+        [
+            0.5223958333333333,
+            0.07777777777777778,
+            -0.0005208333333333037,
+            -0.02592592592592593,
+            -0.014062499999999978,
+            0.010185185185185186,
+            0.01302083333333337,
+            0.006481481481481477
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]day_048A/[etc]day_048A_135.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]day_048A/[etc]day_048A_140.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]day_048A/[etc]day_048A_145.json",
+            "id": 2
+        }
+    ],
+    "label": 0
+}

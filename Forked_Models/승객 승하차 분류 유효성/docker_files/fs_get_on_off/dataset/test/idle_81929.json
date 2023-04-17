@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.9546875,
+            0.4185185185185185,
+            -0.0015625000000000222,
+            -0.020370370370370372,
+            0.0015625000000000222,
+            0.03240740740740744,
+            -0.012500000000000067,
+            0.017592592592592604
+        ],
+        [
+            0.9255208333333333,
+            0.3787037037037037,
+            0.0005208333333333037,
+            -0.021296296296296313,
+            0.005729166666666674,
+            0.02407407407407408,
+            -0.009895833333333326,
+            0.025925925925925908
+        ],
+        [
+            0.9026041666666667,
+            0.37407407407407406,
+            0.0010416666666667185,
+            -0.02407407407407408,
+            0.0031250000000000444,
+            0.018518518518518545,
+            -0.008854166666666607,
+            0.021296296296296313
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/hospital/[hospital]morning_103A/[hospital]morning_103A_180.json",
+            "id": 10
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/hospital/[hospital]morning_103A/[hospital]morning_103A_183.json",
+            "id": 10
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/hospital/[hospital]morning_103A/[hospital]morning_103A_186.json",
+            "id": 10
+        }
+    ],
+    "label": 2
+}

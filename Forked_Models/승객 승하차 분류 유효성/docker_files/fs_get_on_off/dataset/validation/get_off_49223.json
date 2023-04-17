@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.2833333333333333,
+            0.1675925925925926,
+            0.006250000000000033,
+            -0.014814814814814808,
+            0.006770833333333337,
+            0.020370370370370372,
+            -0.014062499999999978,
+            0.013888888888888895
+        ],
+        [
+            0.3,
+            0.18888888888888888,
+            0.003124999999999989,
+            -0.04166666666666666,
+            -0.0026041666666666297,
+            -0.022222222222222227,
+            -0.011979166666666652,
+            -0.010185185185185186
+        ],
+        [
+            0.3203125,
+            0.15925925925925927,
+            0.005208333333333315,
+            -0.02407407407407408,
+            -0.010416666666666685,
+            0.020370370370370372,
+            0.007291666666666641,
+            0.010185185185185186
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]leave_659A/[university]leave_659A_350.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]leave_659A/[university]leave_659A_355.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]leave_659A/[university]leave_659A_360.json",
+            "id": 2
+        }
+    ],
+    "label": 1
+}

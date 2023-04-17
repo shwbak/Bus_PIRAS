@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.37864583333333335,
+            0.17592592592592593,
+            0.0026041666666666297,
+            -0.016666666666666663,
+            0.011458333333333293,
+            0.028703703703703703,
+            -0.019270833333333348,
+            0.014814814814814808
+        ],
+        [
+            0.38177083333333334,
+            0.14074074074074075,
+            0.0015625000000000222,
+            -0.013888888888888895,
+            0.016145833333333304,
+            0.02314814814814814,
+            -0.019791666666666652,
+            0.02314814814814814
+        ],
+        [
+            0.3796875,
+            0.12962962962962962,
+            -0.001041666666666663,
+            -0.012962962962962954,
+            0.01822916666666663,
+            0.020370370370370372,
+            -0.017187500000000022,
+            0.020370370370370372
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]night_056A/[subway]night_056A_201.json",
+            "id": 9
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]night_056A/[subway]night_056A_204.json",
+            "id": 9
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]night_056A/[subway]night_056A_207.json",
+            "id": 9
+        }
+    ],
+    "label": 1
+}

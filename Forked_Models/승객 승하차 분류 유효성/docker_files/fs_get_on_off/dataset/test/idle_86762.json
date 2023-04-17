@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.2916666666666667,
+            0.1388888888888889,
+            0.0,
+            -0.01203703703703704,
+            0.005208333333333315,
+            0.003703703703703709,
+            -0.0078125,
+            0.00740740740740739
+        ],
+        [
+            0.2838541666666667,
+            0.13796296296296295,
+            0.0,
+            -0.014814814814814808,
+            0.005729166666666674,
+            0.006481481481481477,
+            -0.00833333333333336,
+            0.009259259259259273
+        ],
+        [
+            0.278125,
+            0.13518518518518519,
+            0.0,
+            -0.01203703703703704,
+            0.007291666666666641,
+            0.0046296296296296224,
+            -0.006770833333333337,
+            0.006481481481481477
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1502A/[apt]attend_1502A_276.json",
+            "id": 6
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1502A/[apt]attend_1502A_279.json",
+            "id": 6
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1502A/[apt]attend_1502A_282.json",
+            "id": 6
+        }
+    ],
+    "label": 2
+}

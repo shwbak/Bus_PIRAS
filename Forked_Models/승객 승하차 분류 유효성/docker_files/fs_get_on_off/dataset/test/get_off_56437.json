@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.8401041666666667,
+            0.3490740740740741,
+            0.0078125,
+            -0.025925925925925963,
+            -0.004687499999999956,
+            0.06574074074074071,
+            -0.00520833333333337,
+            0.0009259259259258856
+        ],
+        [
+            0.9302083333333333,
+            0.39814814814814814,
+            0.006249999999999978,
+            -0.0222222222222222,
+            -0.004166666666666652,
+            0.05185185185185187,
+            -0.0234375,
+            -0.0009259259259259411
+        ],
+        [
+            0.9953125,
+            0.44722222222222224,
+            -0.05989583333333337,
+            -0.025000000000000022,
+            0.005729166666666563,
+            0.03796296296296292,
+            -0.006250000000000089,
+            -0.01296296296296301
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]day_1369A/[subway]day_1369A_370.json",
+            "id": 4
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]day_1369A/[subway]day_1369A_375.json",
+            "id": 4
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]day_1369A/[subway]day_1369A_380.json",
+            "id": 4
+        }
+    ],
+    "label": 1
+}

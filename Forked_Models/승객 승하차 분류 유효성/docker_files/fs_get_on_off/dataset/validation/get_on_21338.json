@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.8338541666666667,
+            0.7685185185185185,
+            0.01302083333333337,
+            -0.06944444444444442,
+            -0.030729166666666696,
+            -0.047222222222222165,
+            0.04322916666666665,
+            0.04629629629629628
+        ],
+        [
+            0.7744791666666667,
+            0.7481481481481481,
+            0.0015624999999999112,
+            -0.05833333333333335,
+            -0.030208333333333393,
+            -0.02962962962962956,
+            0.04843749999999991,
+            0.08333333333333337
+        ],
+        [
+            0.7427083333333333,
+            0.7453703703703703,
+            -0.0067708333333332815,
+            -0.07407407407407407,
+            -0.04062500000000002,
+            -0.02777777777777779,
+            0.046875,
+            0.09166666666666667
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1259A/[apt]attend_1259A_108.json",
+            "id": 3
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1259A/[apt]attend_1259A_111.json",
+            "id": 3
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1259A/[apt]attend_1259A_114.json",
+            "id": 3
+        }
+    ],
+    "label": 0
+}

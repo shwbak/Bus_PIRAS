@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.3619791666666667,
+            0.10462962962962963,
+            -0.002604166666666685,
+            -0.012962962962962968,
+            0.011458333333333293,
+            0.005555555555555564,
+            -0.007291666666666696,
+            0.013888888888888895
+        ],
+        [
+            0.365625,
+            0.1,
+            -0.0026041666666666297,
+            -0.012962962962962968,
+            0.008854166666666663,
+            0.00555555555555555,
+            -0.007291666666666641,
+            0.012962962962962954
+        ],
+        [
+            0.3645833333333333,
+            0.08981481481481482,
+            -0.0026041666666666297,
+            -0.012962962962962968,
+            0.00833333333333336,
+            0.006481481481481477,
+            -0.007291666666666641,
+            0.018518518518518517
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1463A/[apt]attend_1463A_400.json",
+            "id": 7
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1463A/[apt]attend_1463A_405.json",
+            "id": 7
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1463A/[apt]attend_1463A_410.json",
+            "id": 7
+        }
+    ],
+    "label": 1
+}

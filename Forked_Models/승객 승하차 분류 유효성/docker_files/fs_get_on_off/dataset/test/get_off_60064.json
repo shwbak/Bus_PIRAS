@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.5822916666666667,
+            0.09259259259259259,
+            -0.0015625000000000222,
+            -0.032407407407407406,
+            -0.011458333333333348,
+            0.006481481481481491,
+            0.011979166666666652,
+            0.004629629629629636
+        ],
+        [
+            0.6083333333333333,
+            0.10277777777777777,
+            -0.0015624999999999112,
+            -0.03518518518518518,
+            -0.014583333333333282,
+            0.005555555555555564,
+            0.011458333333333348,
+            0.003703703703703709
+        ],
+        [
+            0.63125,
+            0.10648148148148148,
+            -0.002083333333333326,
+            -0.03240740740740741,
+            -0.016145833333333304,
+            0.00555555555555555,
+            0.008854166666666718,
+            0.003703703703703709
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]day_400A/[ele]day_400A_370.json",
+            "id": 7
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]day_400A/[ele]day_400A_375.json",
+            "id": 7
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]day_400A/[ele]day_400A_380.json",
+            "id": 7
+        }
+    ],
+    "label": 1
+}

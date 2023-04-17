@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.5109375,
+            0.34814814814814815,
+            -0.002083333333333326,
+            -0.025000000000000022,
+            0.01302083333333326,
+            0.005555555555555536,
+            -0.018229166666666685,
+            0.010185185185185186
+        ],
+        [
+            0.5088541666666667,
+            0.337037037037037,
+            0.0010416666666666075,
+            -0.02314814814814814,
+            0.009374999999999911,
+            0.007407407407407418,
+            -0.01666666666666672,
+            0.011111111111111127
+        ],
+        [
+            0.5046875,
+            0.33055555555555555,
+            -0.002083333333333326,
+            -0.01944444444444443,
+            0.011979166666666763,
+            0.015740740740740722,
+            -0.009374999999999967,
+            0.012962962962962954
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2486A/[apt]night_2486A_177.json",
+            "id": 5
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2486A/[apt]night_2486A_180.json",
+            "id": 5
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2486A/[apt]night_2486A_183.json",
+            "id": 5
+        }
+    ],
+    "label": 1
+}

@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.6109375,
+            0.48703703703703705,
+            0.01302083333333326,
+            -0.05555555555555558,
+            -0.011458333333333348,
+            0.0444444444444444,
+            0.03125,
+            0.025000000000000022
+        ],
+        [
+            0.6630208333333333,
+            0.5185185185185185,
+            0.022395833333333393,
+            -0.04074074074074069,
+            -0.01822916666666663,
+            0.03703703703703709,
+            0.030208333333333393,
+            0.026851851851851904
+        ],
+        [
+            0.703125,
+            0.5648148148148148,
+            0.029166666666666674,
+            -0.042592592592592515,
+            -0.027604166666666652,
+            0.037962962962962976,
+            0.030729166666666696,
+            0.03425925925925932
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]attend_1261A/[village]attend_1261A_192.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]attend_1261A/[village]attend_1261A_195.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]attend_1261A/[village]attend_1261A_198.json",
+            "id": 2
+        }
+    ],
+    "label": 1
+}

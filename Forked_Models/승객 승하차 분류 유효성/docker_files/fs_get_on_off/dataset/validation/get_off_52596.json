@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.9010416666666666,
+            0.4722222222222222,
+            0.0078125,
+            -0.05277777777777776,
+            -0.011979166666666652,
+            0.03981481481481486,
+            0.004687500000000067,
+            0.03703703703703709
+        ],
+        [
+            0.9755208333333333,
+            0.5083333333333333,
+            0.004166666666666763,
+            -0.062037037037037,
+            -0.011458333333333237,
+            0.05092592592592593,
+            -0.002083333333333326,
+            0.03888888888888897
+        ],
+        [
+            0.9421875,
+            0.6055555555555555,
+            0.0,
+            -0.0981481481481481,
+            -0.04583333333333328,
+            0.0,
+            0.04583333333333339,
+            0.0
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]day_1966A/[subway]day_1966A_39.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]day_1966A/[subway]day_1966A_42.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]day_1966A/[subway]day_1966A_45.json",
+            "id": 1
+        }
+    ],
+    "label": 1
+}

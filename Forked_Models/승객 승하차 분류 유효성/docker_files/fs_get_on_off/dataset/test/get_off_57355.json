@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.4703125,
+            0.3472222222222222,
+            0.007291666666666641,
+            -0.04351851851851851,
+            -0.016666666666666663,
+            0.014814814814814836,
+            0.012499999999999956,
+            0.010185185185185186
+        ],
+        [
+            0.4973958333333333,
+            0.35462962962962963,
+            0.005208333333333315,
+            -0.04722222222222222,
+            -0.020833333333333315,
+            0.021296296296296313,
+            0.01510416666666664,
+            0.014814814814814836
+        ],
+        [
+            0.5270833333333333,
+            0.34629629629629627,
+            0.004687499999999956,
+            -0.04537037037037034,
+            -0.02812500000000001,
+            0.023148148148148195,
+            0.018749999999999933,
+            0.021296296296296313
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_2539A/[apt]attend_2539A_186.json",
+            "id": 7
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_2539A/[apt]attend_2539A_189.json",
+            "id": 7
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_2539A/[apt]attend_2539A_192.json",
+            "id": 7
+        }
+    ],
+    "label": 1
+}

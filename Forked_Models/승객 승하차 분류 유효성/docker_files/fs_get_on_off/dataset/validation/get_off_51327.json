@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.2520833333333333,
+            0.17037037037037037,
+            0.004687500000000011,
+            -0.03518518518518518,
+            -0.005729166666666646,
+            0.02777777777777779,
+            0.007291666666666696,
+            0.017592592592592604
+        ],
+        [
+            0.2989583333333333,
+            0.16203703703703703,
+            0.005208333333333315,
+            -0.03425925925925927,
+            -0.010937499999999989,
+            0.025925925925925936,
+            0.0078125,
+            0.017592592592592604
+        ],
+        [
+            0.3416666666666667,
+            0.1574074074074074,
+            0.006249999999999978,
+            -0.03240740740740741,
+            -0.011979166666666652,
+            0.024999999999999994,
+            0.0078125,
+            0.0111111111111111
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/hospital/[hospital]night_778A/[hospital]night_778A_240.json",
+            "id": 7
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/hospital/[hospital]night_778A/[hospital]night_778A_245.json",
+            "id": 7
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/hospital/[hospital]night_778A/[hospital]night_778A_250.json",
+            "id": 7
+        }
+    ],
+    "label": 1
+}

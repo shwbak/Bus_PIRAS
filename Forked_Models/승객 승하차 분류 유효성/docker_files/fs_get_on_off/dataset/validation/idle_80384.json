@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.8588541666666667,
+            0.22314814814814815,
+            0.002083333333333326,
+            -0.012962962962962954,
+            -0.01302083333333337,
+            -0.0018518518518518545,
+            0.008854166666666607,
+            0.017592592592592576
+        ],
+        [
+            0.7598958333333333,
+            0.16018518518518518,
+            0.0026041666666666297,
+            -0.016666666666666663,
+            -0.010937500000000044,
+            0.0,
+            0.01302083333333337,
+            0.013888888888888895
+        ],
+        [
+            0.6817708333333333,
+            0.1259259259259259,
+            0.0005208333333333037,
+            -0.014814814814814808,
+            -0.01302083333333337,
+            0.0,
+            0.01302083333333337,
+            0.007407407407407418
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]attend_012A/[etc]attend_012A_318.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]attend_012A/[etc]attend_012A_321.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]attend_012A/[etc]attend_012A_324.json",
+            "id": 2
+        }
+    ],
+    "label": 2
+}

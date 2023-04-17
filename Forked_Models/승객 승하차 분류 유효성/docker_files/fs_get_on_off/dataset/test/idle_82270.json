@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.8802083333333334,
+            0.3851851851851852,
+            -0.0010416666666667185,
+            -0.040740740740740744,
+            0.016666666666666607,
+            0.0314814814814815,
+            -0.019791666666666652,
+            0.04444444444444445
+        ],
+        [
+            0.8354166666666667,
+            0.35462962962962963,
+            -0.0026041666666667407,
+            -0.033333333333333326,
+            0.018749999999999933,
+            0.041666666666666685,
+            -0.019270833333333348,
+            0.03425925925925927
+        ],
+        [
+            0.7859375,
+            0.32314814814814813,
+            -0.005729166666666674,
+            -0.03888888888888886,
+            0.0234375,
+            0.037962962962962976,
+            -0.019270833333333237,
+            0.0314814814814815
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_008A/[apt]attend_008A_282.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_008A/[apt]attend_008A_285.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_008A/[apt]attend_008A_288.json",
+            "id": 1
+        }
+    ],
+    "label": 2
+}

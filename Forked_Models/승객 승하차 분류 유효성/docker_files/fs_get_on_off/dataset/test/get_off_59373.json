@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.7427083333333333,
+            0.05925925925925926,
+            0.00520833333333337,
+            -0.031481481481481485,
+            -0.006249999999999978,
+            0.015740740740740736,
+            0.0078125,
+            0.008333333333333331
+        ],
+        [
+            0.7119791666666667,
+            0.03888888888888889,
+            0.006249999999999978,
+            -0.027777777777777776,
+            -0.0067708333333333925,
+            0.013888888888888888,
+            0.003645833333333237,
+            0.008333333333333331
+        ],
+        [
+            0.6796875,
+            0.016666666666666666,
+            0.00520833333333337,
+            -0.028703703703703703,
+            -0.007291666666666696,
+            0.01574074074074074,
+            0.00520833333333337,
+            0.008333333333333335
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]attend_698A/[university]attend_698A_370.json",
+            "id": 4
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]attend_698A/[university]attend_698A_375.json",
+            "id": 4
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]attend_698A/[university]attend_698A_380.json",
+            "id": 4
+        }
+    ],
+    "label": 1
+}

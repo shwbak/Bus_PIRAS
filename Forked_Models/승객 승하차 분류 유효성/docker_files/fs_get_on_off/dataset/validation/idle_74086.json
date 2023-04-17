@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.278125,
+            0.11018518518518519,
+            -0.004166666666666652,
+            -0.019444444444444445,
+            0.009895833333333326,
+            0.012962962962962954,
+            -0.014583333333333337,
+            0.015740740740740722
+        ],
+        [
+            0.27708333333333335,
+            0.10185185185185185,
+            -0.005729166666666674,
+            -0.0111111111111111,
+            -0.013541666666666674,
+            0.019444444444444445,
+            0.0078125,
+            0.016666666666666677
+        ],
+        [
+            0.27708333333333335,
+            0.10092592592592593,
+            -0.005729166666666674,
+            -0.016666666666666677,
+            0.009374999999999967,
+            0.008333333333333331,
+            -0.016666666666666663,
+            0.01944444444444443
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]night_792A/[supermarket]night_792A_435.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]night_792A/[supermarket]night_792A_440.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]night_792A/[supermarket]night_792A_445.json",
+            "id": 2
+        }
+    ],
+    "label": 2
+}

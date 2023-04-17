@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.840625,
+            0.5518518518518518,
+            0.012500000000000067,
+            -0.055555555555555525,
+            -0.06145833333333328,
+            0.033333333333333326,
+            0.05937500000000007,
+            0.13333333333333341
+        ],
+        [
+            0.8229166666666666,
+            0.575,
+            0.01302083333333337,
+            -0.051851851851851816,
+            -0.05729166666666663,
+            0.030555555555555558,
+            0.06666666666666665,
+            0.13240740740740742
+        ],
+        [
+            0.825,
+            0.6592592592592592,
+            0.019791666666666763,
+            -0.07222222222222219,
+            -0.059374999999999956,
+            -0.025925925925925908,
+            0.06562500000000004,
+            0.10000000000000009
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_1298A/[apt]day_1298A_150.json",
+            "id": 7
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_1298A/[apt]day_1298A_153.json",
+            "id": 7
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_1298A/[apt]day_1298A_156.json",
+            "id": 7
+        }
+    ],
+    "label": 0
+}

@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.6166666666666667,
+            0.06759259259259259,
+            0.0005208333333333037,
+            -0.015740740740740743,
+            -0.014062499999999978,
+            0.00555555555555555,
+            0.008333333333333304,
+            0.0009259259259259273
+        ],
+        [
+            0.5973958333333333,
+            0.06759259259259259,
+            0.0,
+            -0.01296296296296296,
+            -0.011979166666666652,
+            0.0,
+            0.0078125,
+            -0.002777777777777782
+        ],
+        [
+            0.5838541666666667,
+            0.06481481481481481,
+            -0.0015625000000000222,
+            -0.016666666666666663,
+            -0.009895833333333326,
+            0.0018518518518518545,
+            0.006249999999999978,
+            0.0
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2189A/[apt]night_2189A_430.json",
+            "id": 5
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2189A/[apt]night_2189A_435.json",
+            "id": 5
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2189A/[apt]night_2189A_440.json",
+            "id": 5
+        }
+    ],
+    "label": 1
+}

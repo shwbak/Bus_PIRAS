@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.9760416666666667,
+            0.6138888888888889,
+            0.0026041666666666297,
+            -0.029629629629629672,
+            -0.018750000000000044,
+            0.002777777777777768,
+            0.01302083333333326,
+            0.03703703703703698
+        ],
+        [
+            0.9432291666666667,
+            0.48518518518518516,
+            0.0031250000000000444,
+            -0.029629629629629617,
+            -0.0234375,
+            0.0027777777777778234,
+            0.016145833333333304,
+            0.03703703703703709
+        ],
+        [
+            0.8359375,
+            0.37222222222222223,
+            -0.0031250000000000444,
+            -0.037037037037037035,
+            -0.020312499999999956,
+            -0.002777777777777768,
+            0.014062499999999978,
+            0.01944444444444443
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]morning_1269A/[subway]morning_1269A_350.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]morning_1269A/[subway]morning_1269A_355.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]morning_1269A/[subway]morning_1269A_360.json",
+            "id": 2
+        }
+    ],
+    "label": 2
+}

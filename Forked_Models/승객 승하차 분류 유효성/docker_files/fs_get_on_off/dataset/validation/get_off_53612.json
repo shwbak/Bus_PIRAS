@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.31666666666666665,
+            0.0712962962962963,
+            0.004166666666666707,
+            -0.01666666666666667,
+            -0.0005208333333333037,
+            0.04166666666666666,
+            0.009375000000000022,
+            0.02685185185185185
+        ],
+        [
+            0.359375,
+            0.06388888888888888,
+            0.0005208333333333592,
+            -0.02314814814814814,
+            0.0005208333333333592,
+            0.03981481481481482,
+            -0.007291666666666641,
+            0.026851851851851863
+        ],
+        [
+            0.396875,
+            0.03333333333333333,
+            0.009895833333333381,
+            -0.020370370370370372,
+            0.007291666666666696,
+            0.041666666666666664,
+            -0.003124999999999989,
+            0.028703703703703703
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]morning_2517A/[apt]morning_2517A_275.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]morning_2517A/[apt]morning_2517A_280.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]morning_2517A/[apt]morning_2517A_285.json",
+            "id": 1
+        }
+    ],
+    "label": 1
+}

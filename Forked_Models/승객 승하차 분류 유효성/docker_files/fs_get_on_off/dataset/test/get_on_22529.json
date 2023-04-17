@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.38697916666666665,
+            0.7305555555555555,
+            -0.04322916666666665,
+            -0.09629629629629621,
+            -0.014062499999999978,
+            -0.06296296296296289,
+            0.06406250000000002,
+            -0.005555555555555536
+        ],
+        [
+            0.31302083333333336,
+            0.8064814814814815,
+            -0.03958333333333336,
+            -0.1342592592592592,
+            0.014583333333333282,
+            -0.09166666666666667,
+            0.07968749999999997,
+            0.012037037037037068
+        ],
+        [
+            0.23645833333333333,
+            0.8675925925925926,
+            -0.05572916666666666,
+            -0.1342592592592593,
+            0.010937500000000017,
+            -0.10833333333333328,
+            0.0859375,
+            0.10370370370370374
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1479A/[apt]attend_1479A_195.json",
+            "id": 6
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1479A/[apt]attend_1479A_198.json",
+            "id": 6
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1479A/[apt]attend_1479A_201.json",
+            "id": 6
+        }
+    ],
+    "label": 0
+}
