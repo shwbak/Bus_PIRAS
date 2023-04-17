@@ -2,7 +2,7 @@ from imutils.video import VideoStream
 import imagezmq
 
 
-path = "rtsp://192.168.1.69:8080//h264_ulaw.sdp"  # change to your IP stream address
+path = "rtsp://192.168.0.3:8080//h264_ulaw.sdp"  # change to your IP stream address
 cap = VideoStream(path)
 
 sender = imagezmq.ImageSender(connect_to='tcp://localhost:5555')  # change to IP address and port of server thread
