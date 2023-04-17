@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.5666666666666667,
+            0.49537037037037035,
+            -0.004166666666666652,
+            -0.12222222222222218,
+            0.08229166666666665,
+            0.042592592592592626,
+            -0.08437499999999998,
+            0.10277777777777775
+        ],
+        [
+            0.55625,
+            0.4787037037037037,
+            -0.009895833333333326,
+            -0.11203703703703705,
+            0.08229166666666665,
+            0.07129629629629636,
+            -0.078125,
+            0.13333333333333336
+        ],
+        [
+            0.5552083333333333,
+            0.5120370370370371,
+            -0.009375000000000022,
+            -0.1462962962962963,
+            0.07239583333333333,
+            0.030555555555555558,
+            -0.06927083333333328,
+            0.09074074074074068
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/content/drive/Othercomputers/\ub0b4 \ub178\ud2b8\ubd81/Forked_Models/Validation/Validation/_\ub77c\ubca8_General_val_C/district/[district]night_523C/[district]night_523C_92.json",
+            "id": 0
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/content/drive/Othercomputers/\ub0b4 \ub178\ud2b8\ubd81/Forked_Models/Validation/Validation/_\ub77c\ubca8_General_val_C/district/[district]night_523C/[district]night_523C_94.json",
+            "id": 0
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/content/drive/Othercomputers/\ub0b4 \ub178\ud2b8\ubd81/Forked_Models/Validation/Validation/_\ub77c\ubca8_General_val_C/district/[district]night_523C/[district]night_523C_96.json",
+            "id": 0
+        }
+    ],
+    "label": 1
+}
