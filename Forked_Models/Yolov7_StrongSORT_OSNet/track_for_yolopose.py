@@ -38,6 +38,9 @@ from yolov7.utils.plots import plot_one_box
 from strong_sort.utils.parser import get_config
 from strong_sort.strong_sort import StrongSORT
 
+from yolov7.utils.datasets import letterbox
+from yolov7.utils.general import non_max_suppression_kpt
+from yolov7.utils.plots import output_to_keypoint, plot_skeleton_kpts,plot_one_box_kpt
 
 VID_FORMATS = 'asf', 'avi', 'gif', 'm4v', 'mkv', 'mov', 'mp4', 'mpeg', 'mpg', 'ts', 'wmv'  # include video suffixes
 
@@ -97,10 +100,12 @@ def run(
     (save_dir / 'tracks' if save_txt else save_dir).mkdir(parents=True, exist_ok=True)  # make dir
 
     # Load model
-    device = select_device(device)
-    
+    device = torch.device("cuda:0" if torch.cuda.is_available() else "cpu")
+    print(device)
+
     WEIGHTS.mkdir(parents=True, exist_ok=True)
-    model = attempt_load(Path(yolo_weights), map_location=device)  # load FP32 model
+    model = loading_yolov7_model(Path("/content/drive/Othercomputers/내 노트북/Forked_Models/Yolov7_StrongSORT_OSNet/yolov7/yolov7-w6-pose.pt"),
+                                             device)  # load FP32 model
     names, = model.names,
     stride = model.stride.max().cpu().numpy()  # model stride
     imgsz = check_img_size(imgsz[0], s=stride)  # check image size
@@ -159,16 +164,25 @@ def run(
 
         # Inference
         visualize = increment_path(save_dir / Path(path[0]).stem, mkdir=True) if visualize else False
-        pred = model(im)
+        pred, im2 = model(im)
         t3 = time_synchronized()
         dt[1] += t3 - t2
 
         # Apply NMS
-        pred = non_max_suppression(pred[0], conf_thres, iou_thres, classes, agnostic_nms)
+        pred = non_max_suppression_kpt(pred,
+                                       conf_thres,  # Confidence Threshold
+                                       iou_thres,  # IoU Threshold
+                                       nc=model.yaml['nc'],  # Number of Classes
+                                       nkpt=model.yaml['nkpt'],  # Number of Keypoints
+                                       kpt_label=True)
+        
+        with torch.no_grad():
+          pred_kpt = output_to_keypoint(pred)
+        
         dt[2] += time_synchronized() - t3
         
         # Process detections
-        for i, det in enumerate(pred):  # detections per image
+        for i, pose in enumerate(pred):  # detections per image
             seen += 1
             if webcam:  # nr_sources >= 1
                 p, im0, _ = path[i], im0s[i].copy(), dataset.count
@@ -196,22 +210,36 @@ def run(
 
             if cfg.STRONGSORT.ECC:  # camera motion compensation
                 strongsort_list[i].tracker.camera_update(prev_frames[i], curr_frames[i])
-
-            #print(det)
-
+            
+            #print(type(pred[0]))
+            det = pred[0]
+            #print(det)    # 디버그 용
             if det is not None and len(det):
                 # Rescale boxes from img_size to im0 size
                 det[:, :4] = scale_coords(im.shape[2:], det[:, :4], im0.shape).round()
 
                 # Print results
-                for c in det[:, -1].unique():
+                for c in set(det[:, -1]):
                     n = (det[:, -1] == c).sum()  # detections per class
                     s += f"{n} {names[int(c)]}{'s' * (n > 1)}, "  # add to string
 
                 xywhs = xyxy2xywh(det[:, 0:4])
                 confs = det[:, 4]
                 clss = det[:, 5]
-
+                """
+                if len(det):  #check if no pose
+                    for c in pose[:, 5].unique(): # Print results
+                        n = (pose[:, 5] == c).sum()  # detections per class
+                        print("No of Objects in Current Frame : {}".format(n))
+                    
+                    for det_index, (*xyxy, conf, cls) in enumerate(reversed(pose[:,:6])): #loop over poses for drawing on frame
+                        c = int(cls)  # integer class
+                        kpts = pose[det_index, 6:]
+                        label = None if opt.hide_labels else (names[c] if opt.hide_conf else f'{names[c]} {conf:.2f}')
+                        plot_one_box_kpt(xyxy, im0, label=label, color=colors(c, True), 
+                                         line_thickness=opt.line_thickness,kpt_label=True, kpts=kpts, steps=3, 
+                                         orig_shape=im0.shape[:2])          
+                """
                 # pass detections to strongsort
                 t4 = time_synchronized()
                 outputs[i] = strongsort_list[i].update(xywhs.cpu(), confs.cpu(), clss.cpu(), im0)
@@ -238,11 +266,12 @@ def run(
                                                                bbox_top, bbox_w, bbox_h, -1, -1, -1, i))
 
                         if save_vid or save_crop or show_vid:  # Add bbox to image
-                            c = int(cls)  # integer class
+                            #c = int(cls)  # integer class
+                            c = 0
                             id = int(id)  # integer id
                             label = None if hide_labels else (f'{id} {names[c]}' if hide_conf else \
                                 (f'{id} {conf:.2f}' if hide_class else f'{id} {names[c]} {conf:.2f}'))
-                            plot_one_box(bboxes, im0, label=label, color=colors[int(cls)], line_thickness=2)
+                            plot_one_box(bboxes, im0, label=label, color=colors[c], line_thickness=2)
                             if save_crop:
                                 txt_file_name = txt_file_name if (isinstance(path, list) and len(path) > 1) else ''
                                 save_one_box(bboxes, imc, file=save_dir / 'crops' / txt_file_name / names[c] / f'{id}' / f'{p.stem}.jpg', BGR=True)
@@ -285,6 +314,20 @@ def run(
     if update:
         strip_optimizer(yolo_weights)  # update model (to fix SourceChangeWarning)
 
+def loading_yolov7_model(yolomodel, device):
+    """
+    Loading yolov7 model
+    """
+    print("Loading model:", yolomodel)
+    model = torch.load(yolomodel, map_location=device)['model']
+    model.float().eval()
+
+    if torch.cuda.is_available():
+        # half() turns predictions into float16 tensors
+        # which significantly lowers inference time
+        model.to(device)
+
+    return model
 
 def parse_opt():
     parser = argparse.ArgumentParser()

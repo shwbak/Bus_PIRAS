@@ -4,4 +4,4 @@
 *.cs linguist-vendored=false
 *.sh linguist-vendored=false
 Forked_Models/승객[[:space:]]승하차[[:space:]]분류[[:space:]]유효성/docker_files/fs_get_on_off/output/train_log.txt filter=lfs diff=lfs merge=lfs -text
-*.pt filter=lfs diff=lfs merge=lfs -text
+yolov7-w6-pose.pt filter=lfs diff=lfs merge=lfs -text
