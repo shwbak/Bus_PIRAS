@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.3729166666666667,
+            0.1037037037037037,
+            -0.0005208333333333592,
+            -0.020370370370370372,
+            0.016666666666666663,
+            0.019444444444444445,
+            -0.014062500000000033,
+            0.016666666666666663
+        ],
+        [
+            0.3489583333333333,
+            0.0962962962962963,
+            -0.0015624999999999667,
+            -0.019444444444444445,
+            0.011458333333333348,
+            0.008333333333333331,
+            -0.011979166666666652,
+            0.007407407407407404
+        ],
+        [
+            0.3375,
+            0.08796296296296297,
+            -0.002604166666666685,
+            -0.01759259259259259,
+            0.013541666666666619,
+            0.0,
+            -0.012500000000000011,
+            0.0
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]morning_315A/[etc]morning_315A_330.json",
+            "id": 5
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]morning_315A/[etc]morning_315A_335.json",
+            "id": 5
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]morning_315A/[etc]morning_315A_340.json",
+            "id": 5
+        }
+    ],
+    "label": 1
+}

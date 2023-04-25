@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.33697916666666666,
+            0.33425925925925926,
+            0.017187500000000022,
+            -0.028703703703703676,
+            0.002083333333333326,
+            0.02685185185185185,
+            -0.013020833333333315,
+            0.005555555555555536
+        ],
+        [
+            0.39375,
+            0.37037037037037035,
+            0.013541666666666674,
+            -0.027777777777777735,
+            0.003645833333333348,
+            0.04814814814814816,
+            -0.013020833333333315,
+            0.00833333333333336
+        ],
+        [
+            0.43854166666666666,
+            0.3638888888888889,
+            0.015625,
+            -0.025925925925925908,
+            -0.0015625000000000222,
+            0.018518518518518545,
+            -0.017187500000000022,
+            0.002777777777777768
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]leave_228A/[university]leave_228A_81.json",
+            "id": 6
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]leave_228A/[university]leave_228A_84.json",
+            "id": 6
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]leave_228A/[university]leave_228A_87.json",
+            "id": 6
+        }
+    ],
+    "label": 1
+}

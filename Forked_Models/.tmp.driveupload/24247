@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.46770833333333334,
+            0.25925925925925924,
+            -0.010416666666666685,
+            -0.04166666666666666,
+            -0.03541666666666665,
+            0.03518518518518521,
+            0.03072916666666664,
+            0.002777777777777768
+        ],
+        [
+            0.5348958333333333,
+            0.40370370370370373,
+            -0.008854166666666718,
+            -0.025000000000000022,
+            -0.04427083333333337,
+            0.03796296296296292,
+            0.04218749999999993,
+            -0.026851851851851904
+        ],
+        [
+            0.6026041666666667,
+            0.5722222222222222,
+            -0.014062500000000089,
+            -0.08888888888888885,
+            -0.06458333333333344,
+            0.005555555555555536,
+            0.06406249999999991,
+            -0.01388888888888884
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]morning_577A/[university]morning_577A_310.json",
+            "id": 4
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]morning_577A/[university]morning_577A_315.json",
+            "id": 4
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/university/[university]morning_577A/[university]morning_577A_320.json",
+            "id": 4
+        }
+    ],
+    "label": 0
+}

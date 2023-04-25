@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.9052083333333333,
+            0.44722222222222224,
+            0.009375000000000022,
+            -0.021296296296296313,
+            -0.004166666666666652,
+            0.012037037037037013,
+            0.004687500000000067,
+            0.0009259259259258856
+        ],
+        [
+            0.9703125,
+            0.5268518518518519,
+            0.004166666666666652,
+            -0.02870370370370373,
+            -0.014062499999999978,
+            0.012037037037036957,
+            -0.009375000000000022,
+            -0.0018518518518518823
+        ],
+        [
+            0.9265625,
+            0.6638888888888889,
+            0.0078125,
+            -0.0888888888888889,
+            -0.0026041666666666297,
+            0.06481481481481488,
+            0.0625,
+            -0.05092592592592593
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1529A/[apt]night_1529A_216.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1529A/[apt]night_1529A_219.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1529A/[apt]night_1529A_222.json",
+            "id": 2
+        }
+    ],
+    "label": 1
+}

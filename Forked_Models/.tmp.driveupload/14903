@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.56875,
+            0.4888888888888889,
+            0.010937500000000044,
+            -0.028703703703703676,
+            -0.007291666666666696,
+            0.0314814814814815,
+            -0.009375000000000022,
+            0.005555555555555591
+        ],
+        [
+            0.42604166666666665,
+            0.38425925925925924,
+            0.004687500000000011,
+            -0.024999999999999967,
+            -0.01041666666666663,
+            0.007407407407407418,
+            0.004166666666666707,
+            0.002777777777777768
+        ],
+        [
+            0.3770833333333333,
+            0.3453703703703704,
+            0.002604166666666685,
+            -0.012962962962962954,
+            -0.008854166666666663,
+            0.007407407407407418,
+            0.0078125,
+            0.0009259259259258856
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]attend_211A/[mid_high]attend_211A_276.json",
+            "id": 6
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]attend_211A/[mid_high]attend_211A_279.json",
+            "id": 6
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]attend_211A/[mid_high]attend_211A_282.json",
+            "id": 6
+        }
+    ],
+    "label": 2
+}

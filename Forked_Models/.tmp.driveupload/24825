@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.421875,
+            0.07777777777777778,
+            -0.001041666666666663,
+            -0.01203703703703704,
+            -0.009895833333333326,
+            0.008333333333333331,
+            0.008854166666666663,
+            0.003703703703703709
+        ],
+        [
+            0.42135416666666664,
+            0.0787037037037037,
+            -0.001041666666666663,
+            -0.014814814814814822,
+            -0.01041666666666663,
+            0.007407407407407404,
+            0.009895833333333381,
+            0.0018518518518518545
+        ],
+        [
+            0.4197916666666667,
+            0.06944444444444445,
+            0.0,
+            -0.010185185185185186,
+            -0.009895833333333326,
+            0.013888888888888881,
+            0.009895833333333326,
+            0.006481481481481477
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]leave_1325A/[subway]leave_1325A_20.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]leave_1325A/[subway]leave_1325A_25.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]leave_1325A/[subway]leave_1325A_30.json",
+            "id": 1
+        }
+    ],
+    "label": 2
+}

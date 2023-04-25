@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.5697916666666667,
+            0.30185185185185187,
+            0.006249999999999978,
+            -0.037037037037037035,
+            -0.016145833333333415,
+            0.036111111111111094,
+            0.019791666666666652,
+            0.03796296296296292
+        ],
+        [
+            0.6088541666666667,
+            0.34814814814814815,
+            0.009895833333333326,
+            -0.04722222222222222,
+            -0.020312500000000067,
+            0.025000000000000022,
+            0.018749999999999933,
+            0.032407407407407385
+        ],
+        [
+            0.6453125,
+            0.39814814814814814,
+            0.012500000000000067,
+            -0.056481481481481466,
+            -0.02604166666666663,
+            0.02407407407407408,
+            0.015104166666666696,
+            0.025000000000000022
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]night_1201A/[village]night_1201A_305.json",
+            "id": 0
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]night_1201A/[village]night_1201A_310.json",
+            "id": 0
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]night_1201A/[village]night_1201A_315.json",
+            "id": 0
+        }
+    ],
+    "label": 1
+}

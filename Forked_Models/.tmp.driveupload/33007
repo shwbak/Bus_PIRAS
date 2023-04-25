@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.8505208333333333,
+            0.4287037037037037,
+            0.0031250000000000444,
+            -0.036111111111111094,
+            -0.013541666666666563,
+            0.017592592592592604,
+            0.004166666666666763,
+            0.014814814814814836
+        ],
+        [
+            0.8171875,
+            0.4074074074074074,
+            0.0,
+            -0.040740740740740744,
+            -0.011458333333333237,
+            0.013888888888888895,
+            0.0010416666666667185,
+            0.015740740740740777
+        ],
+        [
+            0.7901041666666667,
+            0.3861111111111111,
+            0.0015624999999999112,
+            -0.037962962962962976,
+            -0.012500000000000067,
+            0.012037037037037013,
+            0.006249999999999978,
+            0.009259259259259245
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]night_286A/[ele]night_286A_231.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]night_286A/[ele]night_286A_234.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]night_286A/[ele]night_286A_237.json",
+            "id": 1
+        }
+    ],
+    "label": 1
+}

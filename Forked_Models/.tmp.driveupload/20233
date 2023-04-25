@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.9197916666666667,
+            0.47962962962962963,
+            0.011979166666666652,
+            -0.015740740740740722,
+            -0.021874999999999978,
+            0.003703703703703709,
+            0.014583333333333282,
+            0.014814814814814836
+        ],
+        [
+            0.7791666666666667,
+            0.37407407407407406,
+            0.01041666666666663,
+            -0.031481481481481444,
+            -0.019791666666666652,
+            0.00462962962962965,
+            0.01041666666666663,
+            0.0092592592592593
+        ],
+        [
+            0.6182291666666667,
+            0.2601851851851852,
+            0.0015624999999999112,
+            -0.02685185185185185,
+            -0.020312500000000067,
+            0.005555555555555536,
+            0.011979166666666652,
+            0.015740740740740722
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2176A/[apt]night_2176A_3.json",
+            "id": 0
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2176A/[apt]night_2176A_6.json",
+            "id": 0
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2176A/[apt]night_2176A_9.json",
+            "id": 0
+        }
+    ],
+    "label": 2
+}

@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.23645833333333333,
+            0.22870370370370371,
+            -0.001041666666666663,
+            -0.03888888888888889,
+            -0.01145833333333332,
+            0.0111111111111111,
+            0.0072916666666666685,
+            0.010185185185185186
+        ],
+        [
+            0.271875,
+            0.1935185185185185,
+            0.0005208333333333592,
+            -0.028703703703703703,
+            -0.007291666666666641,
+            0.01574074074074075,
+            0.010416666666666685,
+            0.017592592592592604
+        ],
+        [
+            0.3125,
+            0.175,
+            -0.0005208333333333592,
+            -0.03796296296296295,
+            -0.021354166666666674,
+            0.011111111111111127,
+            0.0078125,
+            0.01666666666666669
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/downtown/[downtown]day_204A/[downtown]day_204A_195.json",
+            "id": 4
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/downtown/[downtown]day_204A/[downtown]day_204A_198.json",
+            "id": 4
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/downtown/[downtown]day_204A/[downtown]day_204A_201.json",
+            "id": 4
+        }
+    ],
+    "label": 1
+}

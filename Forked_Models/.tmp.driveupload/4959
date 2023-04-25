@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.746875,
+            0.36203703703703705,
+            -0.004166666666666652,
+            -0.036111111111111094,
+            0.008854166666666718,
+            0.005555555555555536,
+            -0.01041666666666663,
+            0.012037037037037013
+        ],
+        [
+            0.6703125,
+            0.32222222222222224,
+            -0.003645833333333348,
+            -0.023148148148148195,
+            0.010937500000000044,
+            0.011111111111111072,
+            -0.006249999999999978,
+            0.013888888888888895
+        ],
+        [
+            0.6067708333333334,
+            0.2972222222222222,
+            -0.0005208333333334147,
+            -0.017592592592592604,
+            0.008854166666666607,
+            0.015740740740740722,
+            -0.009375000000000022,
+            0.012962962962962954
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]attend_1825A/[district]attend_1825A_3.json",
+            "id": 0
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]attend_1825A/[district]attend_1825A_6.json",
+            "id": 0
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]attend_1825A/[district]attend_1825A_9.json",
+            "id": 0
+        }
+    ],
+    "label": 2
+}
