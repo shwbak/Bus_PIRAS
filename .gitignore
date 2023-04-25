@@ -8,3 +8,5 @@ Forked_Models/폭행 분류 유효성/
 *.mp4
 Forked_Models/승객 승하차 분류 유효성/docker_files/fs_get_on_off/output/train_log.txt
 Forked_Models/Validation/
+Forked_Models/.tmp.drivedownload/
+Forked_Models/.tmp.driveupload/
