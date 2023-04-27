@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.5213541666666667,
+            0.09722222222222222,
+            -0.0010416666666667185,
+            -0.028703703703703703,
+            -0.019270833333333348,
+            0.0046296296296296224,
+            0.01822916666666663,
+            0.002777777777777782
+        ],
+        [
+            0.5385416666666667,
+            0.1037037037037037,
+            -0.003645833333333348,
+            -0.027777777777777776,
+            -0.017187500000000022,
+            0.011111111111111113,
+            0.015625,
+            0.005555555555555564
+        ],
+        [
+            0.5463541666666667,
+            0.11296296296296296,
+            0.0031249999999999334,
+            -0.03425925925925925,
+            -0.01822916666666674,
+            0.007407407407407404,
+            0.016666666666666607,
+            0.007407407407407404
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]night_813A/[ele]night_813A_315.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]night_813A/[ele]night_813A_320.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]night_813A/[ele]night_813A_325.json",
+            "id": 1
+        }
+    ],
+    "label": 1
+}

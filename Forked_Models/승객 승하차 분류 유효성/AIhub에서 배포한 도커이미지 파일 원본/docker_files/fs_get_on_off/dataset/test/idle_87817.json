@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.3619791666666667,
+            0.2490740740740741,
+            -0.005729166666666674,
+            -0.029629629629629645,
+            -0.006250000000000033,
+            0.0111111111111111,
+            0.017187499999999967,
+            0.014814814814814808
+        ],
+        [
+            0.34375,
+            0.2388888888888889,
+            -0.005729166666666674,
+            -0.026851851851851877,
+            -0.006249999999999978,
+            0.002777777777777768,
+            0.009375000000000022,
+            0.014814814814814808
+        ],
+        [
+            0.3265625,
+            0.22685185185185186,
+            -0.005208333333333315,
+            -0.02685185185185185,
+            -0.002083333333333326,
+            0.002777777777777768,
+            0.00833333333333336,
+            0.012962962962962954
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]attend_834A/[district]attend_834A_243.json",
+            "id": 6
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]attend_834A/[district]attend_834A_246.json",
+            "id": 6
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]attend_834A/[district]attend_834A_249.json",
+            "id": 6
+        }
+    ],
+    "label": 2
+}

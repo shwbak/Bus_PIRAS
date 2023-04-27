@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.4119791666666667,
+            0.13518518518518519,
+            -0.004166666666666652,
+            -0.01203703703703704,
+            0.013020833333333315,
+            0.0046296296296296224,
+            0.0005208333333333037,
+            0.020370370370370372
+        ],
+        [
+            0.396875,
+            0.12314814814814815,
+            -0.004687499999999956,
+            -0.014814814814814808,
+            0.009375000000000022,
+            0.0,
+            0.0005208333333333592,
+            0.013888888888888895
+        ],
+        [
+            0.38229166666666664,
+            0.11481481481481481,
+            -0.003124999999999989,
+            -0.013888888888888881,
+            0.0031250000000000444,
+            -0.003703703703703709,
+            0.0015625000000000222,
+            0.0111111111111111
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1473A/[apt]attend_1473A_390.json",
+            "id": 5
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1473A/[apt]attend_1473A_395.json",
+            "id": 5
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1473A/[apt]attend_1473A_400.json",
+            "id": 5
+        }
+    ],
+    "label": 2
+}

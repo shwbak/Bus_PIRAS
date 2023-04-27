@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.6854166666666667,
+            0.3101851851851852,
+            -0.006249999999999978,
+            -0.020370370370370372,
+            0.017708333333333326,
+            0.011111111111111127,
+            -0.014583333333333393,
+            0.00833333333333336
+        ],
+        [
+            0.6645833333333333,
+            0.29814814814814816,
+            -0.006249999999999978,
+            -0.015740740740740777,
+            0.016145833333333415,
+            0.017592592592592604,
+            -0.011458333333333348,
+            0.017592592592592604
+        ],
+        [
+            0.65,
+            0.2953703703703704,
+            -0.0031250000000000444,
+            -0.020370370370370372,
+            0.014583333333333282,
+            0.01481481481481478,
+            -0.012500000000000067,
+            0.01388888888888884
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_2010A/[apt]day_2010A_162.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_2010A/[apt]day_2010A_165.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_2010A/[apt]day_2010A_168.json",
+            "id": 2
+        }
+    ],
+    "label": 2
+}

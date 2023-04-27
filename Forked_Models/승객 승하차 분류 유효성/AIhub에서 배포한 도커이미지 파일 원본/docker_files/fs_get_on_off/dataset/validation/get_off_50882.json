@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.32083333333333336,
+            0.1685185185185185,
+            0.0036458333333332926,
+            -0.015740740740740722,
+            0.0015624999999999667,
+            0.033333333333333354,
+            -0.01614583333333336,
+            0.01944444444444446
+        ],
+        [
+            0.35572916666666665,
+            0.14629629629629629,
+            0.003645833333333348,
+            -0.012037037037037013,
+            0.0078125,
+            0.028703703703703703,
+            -0.0234375,
+            0.025000000000000022
+        ],
+        [
+            0.3828125,
+            0.14351851851851852,
+            0.0015625000000000222,
+            -0.014814814814814808,
+            0.014583333333333337,
+            0.020370370370370372,
+            -0.01874999999999999,
+            0.02777777777777779
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2127A/[apt]night_2127A_231.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2127A/[apt]night_2127A_234.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2127A/[apt]night_2127A_237.json",
+            "id": 1
+        }
+    ],
+    "label": 1
+}

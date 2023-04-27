@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.45989583333333334,
+            0.33240740740740743,
+            0.010416666666666685,
+            -0.018518518518518545,
+            -0.010937499999999989,
+            -0.0027777777777778234,
+            0.009375000000000022,
+            0.0
+        ],
+        [
+            0.4473958333333333,
+            0.31574074074074077,
+            0.010937499999999989,
+            -0.021296296296296313,
+            -0.005729166666666674,
+            0.0,
+            0.004687500000000011,
+            0.0
+        ],
+        [
+            0.11041666666666666,
+            0.3490740740740741,
+            0.0062500000000000056,
+            -0.016666666666666663,
+            0.0031250000000000028,
+            -0.0027777777777778234,
+            -0.006249999999999992,
+            0.0
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]leave_1777A/[district]leave_1777A_378.json",
+            "id": 0
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]leave_1777A/[district]leave_1777A_381.json",
+            "id": 0
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]leave_1777A/[district]leave_1777A_384.json",
+            "id": 0
+        }
+    ],
+    "label": 2
+}

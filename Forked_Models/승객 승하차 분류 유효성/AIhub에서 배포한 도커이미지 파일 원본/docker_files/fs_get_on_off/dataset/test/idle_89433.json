@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.840625,
+            0.48518518518518516,
+            0.0,
+            -0.031481481481481444,
+            -0.0078125,
+            0.025000000000000022,
+            0.0078125,
+            0.04351851851851851
+        ],
+        [
+            0.809375,
+            0.46111111111111114,
+            -0.0067708333333332815,
+            -0.030555555555555558,
+            -0.0026041666666666297,
+            0.015740740740740722,
+            0.005729166666666674,
+            0.04814814814814816
+        ],
+        [
+            0.7947916666666667,
+            0.4527777777777778,
+            -0.0026041666666666297,
+            -0.02685185185185185,
+            0.0015625000000000222,
+            0.01944444444444443,
+            0.009895833333333326,
+            0.05185185185185187
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]leave_576A/[mid_high]leave_576A_105.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]leave_576A/[mid_high]leave_576A_108.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]leave_576A/[mid_high]leave_576A_111.json",
+            "id": 1
+        }
+    ],
+    "label": 2
+}

@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.7244791666666667,
+            0.28888888888888886,
+            0.00520833333333337,
+            -0.04166666666666663,
+            -0.0234375,
+            0.011111111111111127,
+            0.025520833333333326,
+            0.01296296296296301
+        ],
+        [
+            0.8364583333333333,
+            0.3824074074074074,
+            0.017187500000000022,
+            -0.037037037037037035,
+            -0.02083333333333326,
+            0.02777777777777779,
+            0.019791666666666652,
+            0.02685185185185185
+        ],
+        [
+            0.9598958333333333,
+            0.5657407407407408,
+            0.02083333333333337,
+            -0.03981481481481486,
+            -0.021354166666666563,
+            0.031481481481481444,
+            0.019791666666666763,
+            0.022222222222222143
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]day_931A/[supermarket]day_931A_360.json",
+            "id": 6
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]day_931A/[supermarket]day_931A_365.json",
+            "id": 6
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/supermarket/[supermarket]day_931A/[supermarket]day_931A_370.json",
+            "id": 6
+        }
+    ],
+    "label": 1
+}
