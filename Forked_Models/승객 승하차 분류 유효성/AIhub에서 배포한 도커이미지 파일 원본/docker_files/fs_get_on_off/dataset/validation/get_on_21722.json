@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.35104166666666664,
+            0.44074074074074077,
+            0.00520833333333337,
+            -0.11481481481481481,
+            -0.05364583333333328,
+            0.015740740740740722,
+            -0.0005208333333333037,
+            -0.05648148148148152
+        ],
+        [
+            0.36614583333333334,
+            0.4564814814814815,
+            0.027083333333333348,
+            -0.07592592592592595,
+            -0.04062500000000002,
+            0.08240740740740737,
+            -0.018229166666666685,
+            -0.05833333333333335
+        ],
+        [
+            0.3927083333333333,
+            0.4740740740740741,
+            0.02031250000000001,
+            -0.08425925925925926,
+            -0.06354166666666666,
+            0.08518518518518514,
+            0.007291666666666696,
+            0.011111111111111072
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]morning_781A/[ele]morning_781A_190.json",
+            "id": 3
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]morning_781A/[ele]morning_781A_195.json",
+            "id": 3
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]morning_781A/[ele]morning_781A_200.json",
+            "id": 3
+        }
+    ],
+    "label": 0
+}

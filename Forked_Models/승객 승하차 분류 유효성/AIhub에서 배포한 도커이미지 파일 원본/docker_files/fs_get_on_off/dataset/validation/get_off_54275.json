@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.12552083333333333,
+            0.21574074074074073,
+            0.0062500000000000056,
+            -0.03518518518518518,
+            -0.012499999999999997,
+            0.023148148148148168,
+            0.0072916666666666685,
+            0.0027777777777777957
+        ],
+        [
+            0.15989583333333332,
+            0.2101851851851852,
+            0.005729166666666674,
+            -0.03425925925925927,
+            -0.008854166666666663,
+            0.0222222222222222,
+            0.005208333333333343,
+            0.0111111111111111
+        ],
+        [
+            0.2203125,
+            0.20185185185185187,
+            0.0031250000000000167,
+            -0.029629629629629645,
+            -0.009374999999999994,
+            0.033333333333333326,
+            -0.005208333333333315,
+            0.017592592592592576
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1996A/[apt]attend_1996A_177.json",
+            "id": 3
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1996A/[apt]attend_1996A_180.json",
+            "id": 3
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1996A/[apt]attend_1996A_183.json",
+            "id": 3
+        }
+    ],
+    "label": 1
+}

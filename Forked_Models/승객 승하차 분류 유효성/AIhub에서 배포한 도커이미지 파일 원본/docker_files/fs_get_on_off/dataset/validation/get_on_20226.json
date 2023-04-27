@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.24010416666666667,
+            0.12685185185185185,
+            -0.001041666666666663,
+            -0.018518518518518517,
+            -0.0078125,
+            0.01203703703703704,
+            0.009895833333333326,
+            -0.003703703703703709
+        ],
+        [
+            0.24739583333333334,
+            0.13055555555555556,
+            -0.0015625000000000222,
+            -0.022222222222222227,
+            -0.013541666666666674,
+            0.013888888888888867,
+            0.013541666666666646,
+            0.002777777777777768
+        ],
+        [
+            0.25416666666666665,
+            0.13518518518518519,
+            0.0,
+            -0.02592592592592592,
+            -0.010937499999999989,
+            0.012962962962962954,
+            0.014062500000000033,
+            0.002777777777777768
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]leave_761A/[village]leave_761A_156.json",
+            "id": 0
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]leave_761A/[village]leave_761A_159.json",
+            "id": 0
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]leave_761A/[village]leave_761A_162.json",
+            "id": 0
+        }
+    ],
+    "label": 0
+}

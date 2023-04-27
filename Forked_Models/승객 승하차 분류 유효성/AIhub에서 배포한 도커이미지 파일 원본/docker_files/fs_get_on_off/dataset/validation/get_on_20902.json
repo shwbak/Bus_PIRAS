@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.759375,
+            0.5601851851851852,
+            -0.008333333333333304,
+            -0.008333333333333415,
+            -0.06666666666666665,
+            -0.03240740740740744,
+            0.04062500000000002,
+            0.07222222222222219
+        ],
+        [
+            0.721875,
+            0.6305555555555555,
+            -0.014583333333333393,
+            -0.05277777777777781,
+            -0.06718750000000007,
+            -0.037962962962962976,
+            0.04218749999999993,
+            0.042592592592592626
+        ],
+        [
+            0.6552083333333333,
+            0.6537037037037037,
+            -0.031770833333333304,
+            -0.03240740740740733,
+            -0.07135416666666661,
+            0.011111111111111183,
+            0.05572916666666672,
+            0.07037037037037042
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]attend_806A/[ele]attend_806A_245.json",
+            "id": 4
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]attend_806A/[ele]attend_806A_250.json",
+            "id": 4
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/ele/[ele]attend_806A/[ele]attend_806A_255.json",
+            "id": 4
+        }
+    ],
+    "label": 0
+}

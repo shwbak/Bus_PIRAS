@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.2708333333333333,
+            0.1574074074074074,
+            0.001041666666666663,
+            -0.02685185185185185,
+            0.003645833333333348,
+            0.006481481481481477,
+            -0.009895833333333326,
+            0.008333333333333331
+        ],
+        [
+            0.275,
+            0.13796296296296295,
+            0.0057291666666666186,
+            -0.021296296296296285,
+            0.007291666666666641,
+            0.01203703703703704,
+            -0.006770833333333337,
+            0.009259259259259273
+        ],
+        [
+            0.29010416666666666,
+            0.12685185185185185,
+            0.004687500000000011,
+            -0.01574074074074075,
+            0.008854166666666663,
+            0.014814814814814808,
+            -0.009375000000000022,
+            0.017592592592592576
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]attend_1957A/[district]attend_1957A_280.json",
+            "id": 7
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]attend_1957A/[district]attend_1957A_285.json",
+            "id": 7
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]attend_1957A/[district]attend_1957A_290.json",
+            "id": 7
+        }
+    ],
+    "label": 1
+}

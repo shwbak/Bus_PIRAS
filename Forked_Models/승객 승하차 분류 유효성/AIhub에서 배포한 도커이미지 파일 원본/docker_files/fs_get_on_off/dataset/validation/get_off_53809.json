@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.33489583333333334,
+            0.08518518518518518,
+            0.001041666666666663,
+            -0.016666666666666663,
+            0.005729166666666674,
+            -0.003703703703703695,
+            -0.008854166666666663,
+            -0.0009259259259259273
+        ],
+        [
+            0.3265625,
+            0.07592592592592592,
+            0.0015625000000000222,
+            -0.011111111111111113,
+            -0.004687499999999956,
+            0.0,
+            0.009375000000000022,
+            0.0
+        ],
+        [
+            0.3223958333333333,
+            0.0712962962962963,
+            0.001041666666666663,
+            -0.010185185185185193,
+            -0.007291666666666641,
+            0.0018518518518518406,
+            0.006770833333333337,
+            0.0018518518518518406
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]day_574A/[mid_high]day_574A_550.json",
+            "id": 0
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]day_574A/[mid_high]day_574A_555.json",
+            "id": 0
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/mid_high/[mid_high]day_574A/[mid_high]day_574A_560.json",
+            "id": 0
+        }
+    ],
+    "label": 1
+}
