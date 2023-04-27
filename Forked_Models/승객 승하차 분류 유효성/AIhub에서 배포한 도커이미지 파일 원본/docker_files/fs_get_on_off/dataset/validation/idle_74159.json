@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.8875,
+            0.5638888888888889,
+            -0.0015624999999999112,
+            -0.04166666666666663,
+            -0.022916666666666585,
+            -0.017592592592592604,
+            0.016145833333333415,
+            0.01666666666666672
+        ],
+        [
+            0.8796875,
+            0.5555555555555556,
+            0.0031250000000000444,
+            -0.037962962962962976,
+            -0.019791666666666652,
+            -0.015740740740740722,
+            0.019270833333333348,
+            0.017592592592592604
+        ],
+        [
+            0.8739583333333333,
+            0.5481481481481482,
+            0.0026041666666667407,
+            -0.03518518518518521,
+            -0.02083333333333326,
+            -0.012962962962962954,
+            0.01822916666666674,
+            0.012962962962962954
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1342A/[apt]attend_1342A_222.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1342A/[apt]attend_1342A_225.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1342A/[apt]attend_1342A_228.json",
+            "id": 2
+        }
+    ],
+    "label": 2
+}

@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.7723958333333333,
+            0.337037037037037,
+            -0.002083333333333326,
+            -0.020370370370370372,
+            -0.005208333333333259,
+            0.00462962962962965,
+            0.0031250000000000444,
+            0.0
+        ],
+        [
+            0.6895833333333333,
+            0.30833333333333335,
+            -0.002083333333333326,
+            -0.017592592592592604,
+            -0.004166666666666652,
+            0.003703703703703709,
+            0.002083333333333326,
+            0.0
+        ],
+        [
+            0.6380208333333334,
+            0.28703703703703703,
+            -0.0015625000000000222,
+            -0.014814814814814836,
+            -0.004166666666666652,
+            0.003703703703703709,
+            0.002083333333333326,
+            0.0
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]leave_1761A/[district]leave_1761A_309.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]leave_1761A/[district]leave_1761A_312.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]leave_1761A/[district]leave_1761A_315.json",
+            "id": 2
+        }
+    ],
+    "label": 2
+}

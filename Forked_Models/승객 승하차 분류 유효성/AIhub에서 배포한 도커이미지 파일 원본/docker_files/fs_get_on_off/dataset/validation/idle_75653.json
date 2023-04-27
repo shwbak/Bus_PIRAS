@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.5177083333333333,
+            0.262037037037037,
+            0.0015625000000000222,
+            -0.020370370370370344,
+            -0.01302083333333337,
+            0.0064814814814815325,
+            0.008333333333333304,
+            0.007407407407407418
+        ],
+        [
+            0.5223958333333333,
+            0.262037037037037,
+            -0.0010416666666666075,
+            -0.020370370370370344,
+            -0.013541666666666563,
+            0.007407407407407418,
+            0.0067708333333333925,
+            0.00833333333333336
+        ],
+        [
+            0.5255208333333333,
+            0.2601851851851852,
+            0.0,
+            -0.017592592592592604,
+            -0.011979166666666652,
+            0.012037037037037013,
+            0.0078125,
+            0.012037037037037013
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1921A/[apt]attend_1921A_162.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1921A/[apt]attend_1921A_165.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1921A/[apt]attend_1921A_168.json",
+            "id": 2
+        }
+    ],
+    "label": 2
+}

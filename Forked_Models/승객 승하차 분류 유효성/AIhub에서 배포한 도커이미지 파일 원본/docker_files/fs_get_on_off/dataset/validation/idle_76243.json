@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.5921875,
+            0.30462962962962964,
+            -0.005729166666666674,
+            -0.02407407407407408,
+            -0.014062499999999978,
+            0.005555555555555536,
+            0.017708333333333326,
+            0.016666666666666663
+        ],
+        [
+            0.5614583333333333,
+            0.2861111111111111,
+            -0.003645833333333237,
+            -0.02685185185185185,
+            -0.014062499999999978,
+            0.002777777777777768,
+            0.019270833333333348,
+            0.013888888888888895
+        ],
+        [
+            0.5390625,
+            0.26851851851851855,
+            -0.0078125,
+            -0.018518518518518545,
+            -0.01302083333333337,
+            0.008333333333333304,
+            0.01666666666666672,
+            0.025925925925925908
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]attend_1206A/[subway]attend_1206A_114.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]attend_1206A/[subway]attend_1206A_117.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/subway/[subway]attend_1206A/[subway]attend_1206A_120.json",
+            "id": 2
+        }
+    ],
+    "label": 2
+}
