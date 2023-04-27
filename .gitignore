@@ -11,3 +11,5 @@ Forked_Models/승객 승하차 분류 유효성/AIhub에서 배포한 도커이�
 Forked_Models/Validation/
 Forked_Models/.tmp.drivedownload/
 Forked_Models/.tmp.driveupload/
+*.driveupload
+*.drivedownload
