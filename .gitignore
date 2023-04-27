@@ -13,3 +13,5 @@ Forked_Models/.tmp.drivedownload/
 Forked_Models/.tmp.driveupload/
 *.driveupload
 *.drivedownload
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
