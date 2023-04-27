@@ -1,12 +1,13 @@
 PIRAS_Terminal/Library/PackageCache/
 .vscode/
-Forked_Models/승객 승하차 분류 유효성/1. 도커 파일/
-Forked_Models/승객 승하차 분류 유효성/2. 로그 파일/
-Forked_Models/승객 승하차 분류 유효성/3. 테스트 데이터셋 파일/
+Forked_Models/승객 승하차 분류 유효성/AIhub에서 배포한 도커이미지 파일 원본/1. 도커 파일/
+Forked_Models/승객 승하차 분류 유효성/AIhub에서 배포한 도커이미지 파일 원본/2. 로그 파일/
+Forked_Models/승객 승하차 분류 유효성/AIhub에서 배포한 도커이미지 파일 원본/3. 테스트 데이터셋 파일/
 Forked_Models/폭행 분류 유효성/
+Forked_Models/잡다/
 *.avi
 *.mp4
-Forked_Models/승객 승하차 분류 유효성/docker_files/fs_get_on_off/output/train_log.txt
+Forked_Models/승객 승하차 분류 유효성/AIhub에서 배포한 도커이미지 파일 원본/docker_files/fs_get_on_off/output/train_log.txt
 Forked_Models/Validation/
 Forked_Models/.tmp.drivedownload/
 Forked_Models/.tmp.driveupload/
