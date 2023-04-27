@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.35885416666666664,
+            0.18333333333333332,
+            -0.0005208333333333037,
+            -0.010185185185185186,
+            -0.008333333333333304,
+            0.01203703703703704,
+            0.015104166666666696,
+            0.01203703703703704
+        ],
+        [
+            0.3229166666666667,
+            0.17962962962962964,
+            -0.001041666666666663,
+            -0.012962962962962982,
+            -0.006250000000000033,
+            0.008333333333333331,
+            0.012499999999999956,
+            0.009259259259259245
+        ],
+        [
+            0.28072916666666664,
+            0.16018518518518518,
+            -0.0015624999999999667,
+            -0.009259259259259245,
+            -0.004687499999999956,
+            0.011111111111111127,
+            0.010937500000000044,
+            0.007407407407407418
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]leave_1167A/[apt]leave_1167A_333.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]leave_1167A/[apt]leave_1167A_336.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]leave_1167A/[apt]leave_1167A_339.json",
+            "id": 1
+        }
+    ],
+    "label": 1
+}

@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.2484375,
+            0.06759259259259259,
+            0.012499999999999983,
+            -0.0212962962962963,
+            -0.004687500000000011,
+            0.02592592592592592,
+            -0.011458333333333348,
+            0.002777777777777782
+        ],
+        [
+            0.2953125,
+            0.06574074074074074,
+            0.009895833333333381,
+            -0.020370370370370365,
+            0.010937500000000044,
+            0.01759259259259259,
+            -0.007291666666666641,
+            0.010185185185185186
+        ],
+        [
+            0.35260416666666666,
+            0.05925925925925926,
+            0.005208333333333315,
+            -0.023148148148148154,
+            -0.014062499999999978,
+            0.02592592592592592,
+            -0.010937499999999989,
+            0.0009259259259259203
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]morning_1227A/[village]morning_1227A_240.json",
+            "id": 0
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]morning_1227A/[village]morning_1227A_245.json",
+            "id": 0
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/village/[village]morning_1227A/[village]morning_1227A_250.json",
+            "id": 0
+        }
+    ],
+    "label": 1
+}

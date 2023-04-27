@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.31979166666666664,
+            0.13333333333333333,
+            0.0,
+            -0.009259259259259259,
+            0.006250000000000033,
+            0.008333333333333331,
+            -0.008333333333333304,
+            0.0111111111111111
+        ],
+        [
+            0.31979166666666664,
+            0.13333333333333333,
+            -0.0005208333333333037,
+            -0.011111111111111113,
+            0.006770833333333337,
+            0.005555555555555564,
+            -0.008333333333333304,
+            0.0111111111111111
+        ],
+        [
+            0.31354166666666666,
+            0.13240740740740742,
+            -0.0005208333333333037,
+            -0.011111111111111127,
+            0.0078125,
+            0.0046296296296296224,
+            -0.004687500000000011,
+            0.009259259259259245
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1160A/[apt]attend_1160A_159.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1160A/[apt]attend_1160A_162.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_1160A/[apt]attend_1160A_165.json",
+            "id": 2
+        }
+    ],
+    "label": 2
+}

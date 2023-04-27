@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.821875,
+            0.7,
+            0.019270833333333348,
+            -0.05555555555555547,
+            -0.046354166666666696,
+            -0.04907407407407405,
+            0.06614583333333335,
+            0.09537037037037044
+        ],
+        [
+            0.7770833333333333,
+            0.6962962962962963,
+            0.014583333333333282,
+            -0.07314814814814818,
+            -0.03802083333333339,
+            -0.050000000000000044,
+            0.07656249999999998,
+            0.0805555555555556
+        ],
+        [
+            0.7489583333333333,
+            0.7037037037037037,
+            0.00520833333333337,
+            -0.09351851851851856,
+            -0.04843749999999991,
+            -0.0537037037037037,
+            0.07656250000000009,
+            0.05555555555555558
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]morning_1136A/[apt]morning_1136A_129.json",
+            "id": 3
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]morning_1136A/[apt]morning_1136A_132.json",
+            "id": 3
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]morning_1136A/[apt]morning_1136A_135.json",
+            "id": 3
+        }
+    ],
+    "label": 0
+}

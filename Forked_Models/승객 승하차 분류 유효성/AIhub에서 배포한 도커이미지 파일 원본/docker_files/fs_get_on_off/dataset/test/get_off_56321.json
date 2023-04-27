@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.40677083333333336,
+            0.019444444444444445,
+            -0.003645833333333348,
+            -0.013888888888888888,
+            0.008333333333333304,
+            0.018518518518518517,
+            -0.010416666666666685,
+            0.016666666666666663
+        ],
+        [
+            0.3984375,
+            0.024074074074074074,
+            0.0005208333333333592,
+            -0.016666666666666666,
+            0.010937499999999989,
+            0.004629629629629629,
+            -0.009375000000000022,
+            0.010185185185185186
+        ],
+        [
+            0.39375,
+            0.017592592592592594,
+            -0.003124999999999989,
+            -0.012962962962962964,
+            0.010937499999999989,
+            0.010185185185185183,
+            -0.009895833333333326,
+            0.01574074074074074
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2490A/[apt]night_2490A_350.json",
+            "id": 1
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2490A/[apt]night_2490A_355.json",
+            "id": 1
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_2490A/[apt]night_2490A_360.json",
+            "id": 1
+        }
+    ],
+    "label": 1
+}

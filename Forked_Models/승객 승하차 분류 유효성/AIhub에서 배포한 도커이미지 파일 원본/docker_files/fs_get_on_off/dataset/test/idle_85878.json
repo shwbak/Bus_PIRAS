@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.753125,
+            0.3111111111111111,
+            -0.00520833333333337,
+            -0.025925925925925908,
+            -0.014583333333333393,
+            -0.0009259259259259411,
+            0.016666666666666607,
+            0.03518518518518515
+        ],
+        [
+            0.7234375,
+            0.28425925925925927,
+            -0.004166666666666652,
+            -0.02870370370370373,
+            -0.011458333333333237,
+            0.007407407407407418,
+            0.015104166666666696,
+            0.03425925925925927
+        ],
+        [
+            0.7083333333333334,
+            0.27685185185185185,
+            -0.0031250000000000444,
+            -0.025000000000000022,
+            -0.0078125,
+            0.009259259259259245,
+            0.015104166666666585,
+            0.03425925925925927
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]leave_2188A/[apt]leave_2188A_230.json",
+            "id": 3
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]leave_2188A/[apt]leave_2188A_235.json",
+            "id": 3
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]leave_2188A/[apt]leave_2188A_240.json",
+            "id": 3
+        }
+    ],
+    "label": 2
+}

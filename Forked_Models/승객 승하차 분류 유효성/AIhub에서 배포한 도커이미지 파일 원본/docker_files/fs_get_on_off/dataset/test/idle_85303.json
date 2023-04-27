@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.4864583333333333,
+            0.14629629629629629,
+            0.003124999999999989,
+            -0.02314814814814814,
+            -0.0078125,
+            0.0018518518518518545,
+            0.010416666666666685,
+            0.0
+        ],
+        [
+            0.4197916666666667,
+            0.12685185185185185,
+            -0.001041666666666663,
+            -0.019444444444444445,
+            -0.011458333333333348,
+            0.006481481481481477,
+            0.006249999999999978,
+            0.006481481481481477
+        ],
+        [
+            0.35572916666666665,
+            0.11388888888888889,
+            0.001041666666666663,
+            -0.014814814814814808,
+            -0.0078125,
+            0.008333333333333331,
+            0.007291666666666696,
+            0.008333333333333331
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_2003A/[apt]attend_2003A_75.json",
+            "id": 0
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_2003A/[apt]attend_2003A_78.json",
+            "id": 0
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]attend_2003A/[apt]attend_2003A_81.json",
+            "id": 0
+        }
+    ],
+    "label": 2
+}

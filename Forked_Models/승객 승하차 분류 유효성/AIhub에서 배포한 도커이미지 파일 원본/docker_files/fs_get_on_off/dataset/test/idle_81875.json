@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.3692708333333333,
+            0.15092592592592594,
+            -0.003645833333333348,
+            -0.017592592592592604,
+            0.01874999999999999,
+            0.010185185185185186,
+            -0.008854166666666663,
+            0.015740740740740722
+        ],
+        [
+            0.3484375,
+            0.15,
+            -0.001041666666666663,
+            -0.018518518518518517,
+            0.016666666666666663,
+            0.010185185185185186,
+            -0.00833333333333336,
+            0.013888888888888895
+        ],
+        [
+            0.33125,
+            0.13703703703703704,
+            0.0,
+            -0.014814814814814822,
+            0.011979166666666652,
+            0.010185185185185186,
+            -0.006770833333333337,
+            0.0111111111111111
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_2132A/[apt]day_2132A_117.json",
+            "id": 6
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_2132A/[apt]day_2132A_120.json",
+            "id": 6
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]day_2132A/[apt]day_2132A_123.json",
+            "id": 6
+        }
+    ],
+    "label": 2
+}

@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.5526041666666667,
+            0.13333333333333333,
+            -0.0005208333333333037,
+            -0.02962962962962963,
+            -0.01302083333333337,
+            0.02777777777777779,
+            -0.0005208333333333037,
+            0.013888888888888895
+        ],
+        [
+            0.6,
+            0.1259259259259259,
+            0.0010416666666667185,
+            -0.033333333333333326,
+            -0.01041666666666663,
+            0.022222222222222227,
+            0.012500000000000067,
+            0.00462962962962965
+        ],
+        [
+            0.6479166666666667,
+            0.13055555555555556,
+            0.0,
+            -0.02962962962962963,
+            -0.01302083333333337,
+            0.027777777777777762,
+            0.008333333333333304,
+            0.010185185185185186
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]leave_035A/[etc]leave_035A_325.json",
+            "id": 7
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]leave_035A/[etc]leave_035A_330.json",
+            "id": 7
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/etc/[etc]leave_035A/[etc]leave_035A_335.json",
+            "id": 7
+        }
+    ],
+    "label": 1
+}

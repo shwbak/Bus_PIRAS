@@ -1,0 +1,1 @@
+Test 데이터 JSON 파일 개수: 17584 (Get On: 2467, Get Off: 6073, Idle: 9044)

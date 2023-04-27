@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.8989583333333333,
+            0.8972222222222223,
+            0.012500000000000067,
+            -0.06481481481481488,
+            -0.07135416666666661,
+            -0.06388888888888888,
+            0.04010416666666672,
+            0.08981481481481479
+        ],
+        [
+            0.7869791666666667,
+            0.8055555555555556,
+            0.0031250000000000444,
+            -0.04629629629629628,
+            -0.07343750000000004,
+            -0.04907407407407405,
+            0.06145833333333328,
+            0.056481481481481466
+        ],
+        [
+            0.7588541666666667,
+            0.8055555555555556,
+            -0.009375000000000022,
+            -0.06203703703703711,
+            -0.07135416666666672,
+            -0.06203703703703711,
+            0.06041666666666656,
+            0.06666666666666665
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/downtown/[downtown]leave_189A/[downtown]leave_189A_147.json",
+            "id": 0
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/downtown/[downtown]leave_189A/[downtown]leave_189A_150.json",
+            "id": 0
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/downtown/[downtown]leave_189A/[downtown]leave_189A_153.json",
+            "id": 0
+        }
+    ],
+    "label": 0
+}

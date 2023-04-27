@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.6114583333333333,
+            0.7379629629629629,
+            -0.03125,
+            -0.11203703703703705,
+            -0.04166666666666663,
+            -0.02777777777777779,
+            0.05572916666666672,
+            0.029629629629629672
+        ],
+        [
+            0.5776041666666667,
+            0.7444444444444445,
+            -0.03385416666666674,
+            -0.07685185185185184,
+            -0.02864583333333337,
+            -0.0018518518518518823,
+            0.06979166666666659,
+            0.040740740740740744
+        ],
+        [
+            0.5229166666666667,
+            0.775,
+            -0.023437500000000056,
+            -0.10185185185185186,
+            -0.031250000000000056,
+            0.01388888888888884,
+            0.078125,
+            0.025000000000000022
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1943A/[apt]night_1943A_171.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1943A/[apt]night_1943A_174.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]night_1943A/[apt]night_1943A_177.json",
+            "id": 2
+        }
+    ],
+    "label": 0
+}

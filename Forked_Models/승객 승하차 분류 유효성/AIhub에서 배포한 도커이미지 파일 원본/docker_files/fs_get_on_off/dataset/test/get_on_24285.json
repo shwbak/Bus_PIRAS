@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.325,
+            0.10555555555555556,
+            -0.0015625000000000222,
+            -0.07407407407407407,
+            0.02604166666666663,
+            0.05370370370370371,
+            -0.033333333333333326,
+            0.06666666666666667
+        ],
+        [
+            0.30572916666666666,
+            0.09907407407407408,
+            -0.006249999999999978,
+            -0.06666666666666668,
+            0.030208333333333337,
+            0.05555555555555554,
+            -0.047395833333333304,
+            0.07222222222222223
+        ],
+        [
+            0.2755208333333333,
+            0.10277777777777777,
+            -0.003124999999999989,
+            -0.05277777777777777,
+            0.04062500000000002,
+            0.04722222222222222,
+            -0.023958333333333304,
+            0.056481481481481494
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]leave_020A/[apt]leave_020A_174.json",
+            "id": 3
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]leave_020A/[apt]leave_020A_177.json",
+            "id": 3
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/apt/[apt]leave_020A/[apt]leave_020A_180.json",
+            "id": 3
+        }
+    ],
+    "label": 0
+}

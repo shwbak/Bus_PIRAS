@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.5421875,
+            0.2212962962962963,
+            0.01822916666666663,
+            -0.0425925925925926,
+            -0.022395833333333393,
+            -0.003703703703703709,
+            0.015625,
+            0.0046296296296296224
+        ],
+        [
+            0.4953125,
+            0.1648148148148148,
+            0.011979166666666707,
+            -0.03055555555555553,
+            -0.021874999999999978,
+            0.006481481481481505,
+            0.01354166666666673,
+            0.006481481481481505
+        ],
+        [
+            0.4640625,
+            0.14722222222222223,
+            0.005729166666666674,
+            -0.03981481481481482,
+            -0.01510416666666664,
+            0.008333333333333331,
+            0.009375000000000022,
+            0.008333333333333331
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]day_1944A/[district]day_1944A_470.json",
+            "id": 2
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]day_1944A/[district]day_1944A_475.json",
+            "id": 2
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/home/fssv2/myungsang/AI_Data_Project/tta/get_on_off_classification/original_data/General/A/district/[district]day_1944A/[district]day_1944A_480.json",
+            "id": 2
+        }
+    ],
+    "label": 2
+}
