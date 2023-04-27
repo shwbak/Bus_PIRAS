@@ -1,1 +1,0 @@
-Validation 데이터 JSON 파일 개수: 17582 (Get On: 2466, Get Off: 6072, Idle: 9044)
