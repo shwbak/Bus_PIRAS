@@ -1,0 +1,17 @@
+[Timestamp: 2023-04-26 19:31:11 KST+0900] 개발 환경 정보
+OS:            Ubuntu 20.04.5 LTS 
+CPU:           Intel(R) Xeon(R) CPU @ 2.20GHz
+GPU_0:         Tesla T4
+Memory:        26690604 kB
+Storage:       180.00 GiB
+TensorFlow:    2.12.0
+Keras:         2.12.0
+Python:        3.9.16
+
+[Timestamp: 2023-04-26 19:31:59 KST+0900] Train 데이터 정보 가져오기 시작
+[Timestamp: 2023-04-26 19:31:59 KST+0900] Train 데이터 목록
+
+[Timestamp: 2023-04-26 19:31:59 KST+0900] Train 데이터 numpy 배열 정보
+Train_X Shape: (0,)
+Train_Y Shape: (0, 3)
+

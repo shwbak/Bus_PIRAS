@@ -1,0 +1,52 @@
+{
+    "data": [
+        [
+            0.8473958333333333,
+            0.6101851851851852,
+            0.019791666666666652,
+            -0.1388888888888889,
+            -0.08802083333333333,
+            0.028703703703703676,
+            0.08281249999999996,
+            0.10370370370370374
+        ],
+        [
+            0.8473958333333333,
+            0.6101851851851852,
+            0.02083333333333337,
+            -0.14537037037037037,
+            -0.08802083333333333,
+            0.028703703703703676,
+            0.08072916666666663,
+            0.10648148148148151
+        ],
+        [
+            0.8473958333333333,
+            0.6101851851851852,
+            0.02083333333333337,
+            -0.14537037037037037,
+            -0.08802083333333333,
+            0.028703703703703676,
+            0.07708333333333328,
+            0.08148148148148149
+        ]
+    ],
+    "original_data": [
+        {
+            "time_step": 1,
+            "original_data_path": "/content/drive/Othercomputers/\ub0b4 \ub178\ud2b8\ubd81/Forked_Models/Validation/Validation/_\ub77c\ubca8_General_val_C/district/3. \ud6c4\ubc29 \ubc29\ud5a5 \uc774\ubbf8\uc9c0/[district]leave_046C/[district]leave_046C_126.json",
+            "id": 5
+        },
+        {
+            "time_step": 2,
+            "original_data_path": "/content/drive/Othercomputers/\ub0b4 \ub178\ud2b8\ubd81/Forked_Models/Validation/Validation/_\ub77c\ubca8_General_val_C/district/3. \ud6c4\ubc29 \ubc29\ud5a5 \uc774\ubbf8\uc9c0/[district]leave_046C/[district]leave_046C_128.json",
+            "id": 5
+        },
+        {
+            "time_step": 3,
+            "original_data_path": "/content/drive/Othercomputers/\ub0b4 \ub178\ud2b8\ubd81/Forked_Models/Validation/Validation/_\ub77c\ubca8_General_val_C/district/3. \ud6c4\ubc29 \ubc29\ud5a5 \uc774\ubbf8\uc9c0/[district]leave_046C/[district]leave_046C_130.json",
+            "id": 5
+        }
+    ],
+    "label": 2
+}
