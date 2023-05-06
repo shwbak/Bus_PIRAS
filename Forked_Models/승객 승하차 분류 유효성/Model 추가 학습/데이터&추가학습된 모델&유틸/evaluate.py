@@ -99,7 +99,7 @@ def getClassReportLog(class_report_dict, class_name):
 fmt = '%Y-%m-%d %H:%M:%S %Z%z'
 cur_dir = os.getcwd()
 dataset_dir = os.path.join(cur_dir, 'dataset')
-model_save_dir = os.path.join(cur_dir, 'saved_models')
+model_save_dir = os.path.join(cur_dir, '추가학습된 모델')
 f = open('output/evaluate_log.txt', 'w')
 class_name = ['Get On', 'Get Off', 'Idle']
 
