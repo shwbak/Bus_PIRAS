@@ -1,0 +1,13 @@
+{
+    "info": {
+        "description": "AIHub Bus Passenger Dataset",
+        "year": 2020,
+        "version": "1.0",
+        "img_path": "/content/drive/Othercomputers/\u1102\u1162 \u1102\u1169\u1110\u1173\u1107\u116e\u11a8/Forked_Models/Data_A/Image_A/[district]attend_003A_291.jpg",
+        "width": 1920.0,
+        "height": 1080.0,
+        "G-Sensor": "64,-150,943",
+        "Gyro": "0,0,0"
+    },
+    "annotations": []
+}
