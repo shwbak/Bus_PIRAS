@@ -77,8 +77,8 @@
             "age": "None",
             "disabled": null,
             "mask": null,
-            "get_on": null,
-            "get_off": null
+            "get_on": false,
+            "get_off": false
         },
         {
             "id": 0,
